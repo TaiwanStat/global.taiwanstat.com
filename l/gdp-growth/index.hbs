@@ -1,12 +1,21 @@
 <!DOCTYPE html>
-<head>
-  {{> header}}
-    <!-- my js & css -->
-</head>
-<body>
-  {{> start}}
-    <!-- my charts -->
-  {{> end}}
-    <!-- my js & css -->
-  {{> footer}}
-</body>
+<html>
+  <head>
+    {{> header}}
+      <!-- my js & css -->
+    <link rel="stylesheet" href="./style.css" type="text/css"/>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.19/topojson.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/queue-async/1.0.7/queue.min.js"></script>
+  </head>
+  <body>
+    {{> start}}
+      <!-- my charts -->
+      <div id="scale"></div>
+      <div id="map"></div>
+    {{> end}}
+      <!-- my js & css -->
+
+      <script src="./main.js" type="text/javascript"></script>
+    {{> footer}}
+  </body>
+</html>

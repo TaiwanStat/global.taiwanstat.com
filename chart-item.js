@@ -7,7 +7,6 @@ var post_arr = [];
 post_arr.push(long_lists);
 
 long_lists.data.page.forEach(function(p) {
-  console.log(path.join('l', p.url, "index.hbs"))
   post_arr.push({
     "data": {
       "chart_description": p

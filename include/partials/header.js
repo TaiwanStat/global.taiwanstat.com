@@ -13,11 +13,11 @@ module.exports= function (hbs) {
   header_str += '<meta property="og:image:width" content="300">'
   header_str += '<meta property="og:image:height" content="300">'
   header_str += '<meta name="viewport" content="width=device-width, initial-scale=1.0" />'
-  header_str += '<link rel="stylesheet" href="/bower_components/semantic/dist/semantic.min.css" type="text/css" media="all" />'
+  header_str += '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.0.8/semantic.min.css" type="text/css" media="all" />'
   header_str += '<link rel="stylesheet" href="/css/style.css" type="text/css" media="all" />'
   header_str += '<script type="text/javascript" src="http://d3js.org/d3.v3.min.js"></script>'
   header_str += '<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>'
-  header_str += '<script src="/bower_components/semantic/dist/semantic.min.js"></script>';
+  header_str += '<script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.0.8/semantic.min.js"></script>';
   // register a partial
   hbs.registerPartial('header', header_str);
 
