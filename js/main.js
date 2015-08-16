@@ -1,0 +1,27 @@
+"use strict";
+(function(window, document, undefined) {
+
+    var discussion = '<discussion style= "margin: 20px;>'
+        discussion += '<h3 id="discussion_title">數據討論區</h3>'
+        discussion += '<div id="fb-root"></div>'
+        discussion += '<script>'
+        discussion += '(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;js = d.createElement(s); js.id = id;js.src = "//connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v2.3&appId=1659889874241396";fjs.parentNode.insertBefore(js, fjs);}(document, "script", "facebook-jssdk"));'
+        discussion += '</script>'
+        discussion +='<div class="fb-comments" data-href="' + document.location.href + '" data-width="100%" data-numposts="8"></div>'
+        discussion += '</discussion>'
+
+  var embed = '<div id = "embed" class = "ui form" style="margin: 20px; width: 85%; float: left;">'
+      embed += '<div class = "field">'
+      embed += '<label style = "font-size: 38px; margin-bottom: 5px;">網頁嵌入碼</label>'
+      embed += '<input type = "text" style = "font-size: 15px" value = \'<iframe src = "' + document.URL + '" width = "800" height = "600" frameborder = "0"></iframe>\'>'
+      embed += '</div></div>'
+
+  $('#main-content').append(embed);
+  $('#main-content').append(discussion);
+
+  if(window.parent != window) {
+      $("body").find(".fb-plugin").remove();
+      $("body").find("discussion").remove();
+      $("body").find("#embed").remove();
+  }
+})(window, document)

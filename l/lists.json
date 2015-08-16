@@ -1,0 +1,14 @@
+{
+  "data": {
+    "page": [
+      {
+        "title": "Global gdp growth rates",
+        "url": "gdp-growth",
+        "img": "images/gdp-growth.png",
+        "description": "近年來醫病關係及醫護人員的不合理工作內容常常是媒體報導的對象，我們來看看近年醫護人員的人數吧！"
+      }
+    ]
+  },
+  "layout": "./l/index.hbs",
+  "filename": "./l/index.html"
+}
