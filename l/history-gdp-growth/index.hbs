@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {{> header}}
+      <!-- my js & css -->
+    <link rel="stylesheet" href="./style.css" type="text/css"/>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.19/topojson.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/queue-async/1.0.7/queue.min.js"></script>
+  </head>
+  <body>
+    {{> start}}
+      <!-- my charts -->
+      <h3 id="chart-title"><span id="chart-title-year"></span> 全球 GDP 成長率</h3>
+
+      <button id="stop-btn"> 暫停 </button>
+      <button id="start-btn"> 開始 </button>
+      <button id="restart-btn"> 重新開始 </button>
+      <div id="scale"></div>
+      <div id="map"></div>
+    {{> end}}
+      <!-- my js & css -->
+
+      <script src="./main.js" type="text/javascript"></script>
+    {{> footer}}
+  </body>
+</html>
