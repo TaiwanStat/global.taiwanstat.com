@@ -32,6 +32,67 @@
       .projection(projection)
       .context(context);
 
+   // slider
+
+  var slider_width = 700;
+  var years = d3.range(1960, 2014);
+
+  var x = d3.scale.ordinal()
+      .domain(years)
+      .rangePoints([0, slider_width])
+
+  var xAxis = d3.svg.axis()
+      .scale(x)
+      .tickValues(x.domain())
+      .orient("bottom");
+
+  var dispatch = d3.dispatch("sliderChangePosition");
+
+  var slider = d3.select(".slider")
+      .style("width", slider_width + "px")
+
+  var sliderTray = slider.append("div")
+      .attr("class", "slider-tray");
+
+  var sliderHandle = slider.append("div")
+      .attr("class", "slider-handle");
+
+  var sliderScale = slider.append('div')
+      .attr("id", "slider-scale");
+
+  var sliderScaleSvg = sliderScale.append('svg')
+      .attr('width', slider_width + 100)
+      .attr('height', 60);
+
+  sliderHandle.append("div")
+      .attr("class", "slider-handle-icon")
+
+  var sliderScaleg = sliderScaleSvg.append("g")
+      .attr("class", "slider-key")
+      .attr('transform', 'translate(30, 0)')
+
+  sliderScaleg.call(xAxis)
+    .selectAll('text')
+      .style("text-anchor", "end")
+      .attr("dx", "-.8em")
+      .attr("dy", ".15em")
+      .attr("transform", "rotate(-65)" );
+
+  slider.call(d3.behavior.drag()
+      .on("dragstart", function() {
+        var x_mouse = d3.mouse(sliderTray.node())[0];
+
+        dispatch.sliderChangePosition(x_mouse);
+        d3.event.sourceEvent.preventDefault();
+      })
+      .on("drag", function() {
+        var x_mouse = d3.mouse(sliderTray.node())[0];
+
+        dispatch.sliderChangePosition(x_mouse);
+      }));
+
+
+
   queue()
     .defer(d3.json, "/map/world-110m.json")
     .defer(d3.json, "/map/world.geo.json")
@@ -49,8 +110,6 @@
 
 
     var change_map = function() {
-
-      console.log('change map')
 
       d3.select('#scale').html('');
 
@@ -143,27 +202,59 @@
 
       d3.select('#chart-title-year').html(start_date);
 
+      var unit = (slider_width / years.length);
+      sliderHandle.style("left", unit * (start_date - 1960) + "px")
+
       if(start_date !== 2014) {
         start_date++;
       }else {
         clearInterval(loop_map)
       }
+
+
+
     }
+
+    dispatch.on("sliderChangePosition.slider", function(value) {
+
+      if(value > slider_width){
+        sliderHandle.style("left", "500px")
+        value = 500;
+      } else if (value < 0) {
+        sliderHandle.style("left", "0px")
+        value = 0;
+      } else {
+        sliderHandle.style("left", value + "px")
+      }
+
+      var count = Math.round(value / (slider_width / years.length));
+      clearInterval(loop_map);
+      loop_map = '';
+      start_date = 1960 + count;
+      change_map();
+
+    });
 
     var loop_map = setInterval(change_map, 1000);
 
     $('#stop-btn').click(function() {
       clearInterval(loop_map);
+      loop_map = '';
     })
 
     $('#start-btn').click(function() {
-       loop_map = setInterval(change_map, 1000);
+      if(loop_map === '')
+        loop_map = setInterval(change_map, 1000);
     })
 
     $('#restart-btn').click(function() {
+      clearInterval(loop_map);
+      loop_map = '';
       start_date = 1960;
       loop_map = setInterval(change_map, 1000);
     })
   }
+
+
 
 })();
