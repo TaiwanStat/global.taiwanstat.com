@@ -18,6 +18,7 @@
     str += '<div class="mdl-layout__drawer">'
     str += '<span class="mdl-layout-title"><a href="http://global.taiwanstat.com/"><img src="/images/assert/round-logo.png" id="round-logo"/>用數據看台灣</a></span>'
     str += '<nav class="mdl-navigation">'
+    str += '<a class="mdl-navigation__link" href="http://global.taiwanstat.com/r/">世界即時資訊</a>'
     str += '<a class="mdl-navigation__link" href="http://global.taiwanstat.com/l/">世界統計資訊</a>'
     str += '<a class="mdl-navigation__link" href="http://real.taiwanstat.com/">台灣開放即時資料</a>'
     str += '<a class="mdl-navigation__link" href="http://long.taiwanstat.com">台灣開放統計資料</a>'
