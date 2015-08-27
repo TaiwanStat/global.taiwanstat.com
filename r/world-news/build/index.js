@@ -119,15 +119,10 @@
   };
 
   CustomMarker.prototype.onRemove = function() {
-
-    var title = '竊聽日官員、企業 歐巴馬向安倍致歉';
-    var summary = '日本媒體報導，美國總統歐巴馬今天與日本首相安倍晉三進行電話會談，除了談最近的全球股災之外，針對維基解密爆料美國國家安全局竊聽日本政府官員及企業一事，歐巴馬致歉。';
-    var img = 'http://pgw.udn.com.tw/gw/photo.php?u=http://uc.udn.com.tw/photo/2015/08/26/98/1247840.jpg';
-
-    React.render(React.createElement(News, {title: title, summary: summary, img: img}), div);
-    var panes = this.getPanes();
-    panes.overlayImage.appendChild(div);
-  
+    if (this.div) {
+      this.div.parentNode.removeChild(this.div);
+      this.div = null;
+    }
   };
 
   CustomMarker.prototype.draw = function() {
