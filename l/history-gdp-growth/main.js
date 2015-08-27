@@ -211,8 +211,6 @@
         clearInterval(loop_map)
       }
 
-
-
     }
 
     dispatch.on("sliderChangePosition.slider", function(value) {
