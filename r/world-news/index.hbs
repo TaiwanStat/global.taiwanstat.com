@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  {{> header}}
+  <!-- my js & css -->
+    <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.0.4/material.indigo-pink.min.css">
+    <script src="https://storage.googleapis.com/code.getmdl.io/1.0.4/material.min.js"></script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link href='//fonts.googleapis.com/css?family=Noto+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="./style.css">
+ 
+</head>
+<body>
+  {{> start}}
+  <!-- my charts -->
+  <ul>
+    <li>資料來源:BBC中文網</li>
+    <li>地理位置僅供參考，並非實際新聞發生精確位置</li>
+    <li>新聞資訊每小時更新</li>
+  </ul>
+    <div id="map"></div>
+  {{> end}}
+    <!-- my js & css -->
+    {{> footer}}
+    <script src="https://cdn.firebase.com/js/client/2.2.9/firebase.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?"></script>
+    <script src="./build/react.js"></script>
+    <script src="./build/index.js"></script>
+</body>
+</html>
