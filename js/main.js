@@ -23,5 +23,9 @@
       $("body").find(".fb-plugin").remove();
       $("body").find("discussion").remove();
       $("body").find("#embed").remove();
+      $("body").find("header").remove();
+	  $("body").find("footer").remove();
+	  $("body").append("<div id='background'></div>");
+
   }
 })(window, document)
