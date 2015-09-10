@@ -10,7 +10,7 @@
     str += '<a class="mdl-navigation__link" href="http://global.taiwanstat.com/l/">世界統計資訊</a>';
 		str += '<a class="mdl-navigation__link" href="http://real.taiwanstat.com/">台灣開放即時資料</a>';
 		str += '<a class="mdl-navigation__link" href="http://long.taiwanstat.com">台灣開放統計資料</a>';
-		str += '<a class="mdl-navigation__link" href="http://taiwanstat.com/">開放資料分析部落格</a>';
+		str += '<a class="mdl-navigation__link" href="http://taiwanstat.com/opendata">開放資料分析部落格</a>';
 		str += '<a class="mdl-navigation__link" href="https://www.facebook.com/taiwanstat">Facebook 粉專</a>';
 		str += '</nav>';
 		str += '</div>';
@@ -22,7 +22,7 @@
     str += '<a class="mdl-navigation__link" href="http://global.taiwanstat.com/l/">世界統計資訊</a>';
 		str += '<a class="mdl-navigation__link" href="http://real.taiwanstat.com/">台灣開放即時資料</a>';
 		str += '<a class="mdl-navigation__link" href="http://long.taiwanstat.com">台灣開放統計資料</a>';
-		str += '<a class="mdl-navigation__link" href="http://taiwanstat.com/">開放資料分析部落格</a>';
+		str += '<a class="mdl-navigation__link" href="http://taiwanstat.com/opendata">開放資料分析部落格</a>';
 		str += '<a class="mdl-navigation__link" href="https://www.facebook.com/taiwanstat">Facebook 粉專</a>';
 		str += '</nav>';
 		str += '</div>';
