@@ -13,7 +13,7 @@ long_lists.data.page.forEach(function(p) {
     "data": {
       "chart_description": p
     },
-    "partials": partial_arr,
+    "partials": './include/partials.js',
     "layout": path.join('l', p.url, "index.hbs"),
     "filename": path.join('l', p.url, "index.html")
   })
@@ -24,7 +24,7 @@ real_lists.data.page.forEach(function(p) {
     "data": {
       "chart_description": p
     },
-    "partials": partial_arr,
+    "partials": './include/partials.js',
     "layout": path.join('r', p.url, "index.hbs"),
     "filename": path.join('r', p.url, "index.html")
   })
