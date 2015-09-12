@@ -2,7 +2,7 @@ var path = require('path');
 
 var long_lists = require('./l/lists.json');
 var real_lists = require('./r/lists.json');
-var partial_arr = ["./include/partials/header.js", "./include/partials/start.js", "./include/partials/end.js", "./include/partials/footer.js"];
+var partial_arr = ["./include/partials/header.js", "./include/partials/start.js", "./include/partials/end.js", "./include/partials/footer.js", "./include/partials/head.js"];
 var post_arr = [];
 
 post_arr.push(long_lists);

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    {{> header}}
+    {{> head}}
       <!-- my js & css -->
     <link rel="stylesheet" href="./style.css" type="text/css"/>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.19/topojson.min.js"></script>
@@ -9,6 +9,7 @@
 
   </head>
   <body>
+    {{> header}}
     {{> start}}
       <!-- my charts -->
       <h3 id="chart-title"><span id="chart-title-year"></span> 全球 GDP 成長率</h3>
