@@ -5,7 +5,8 @@
         "title": "世界新聞地圖",
         "url": "world-news",
         "img": "/images/r/world_news.png",
-        "description": "讓我們透過地圖了解世界上各地方發生的事情吧！"
+        "description": "讓我們透過地圖了解世界上各地方發生的事情吧！",
+        "author": "Chi-Hsuan Huang"
       }
     ]
   },
