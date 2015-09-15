@@ -1,5 +1,6 @@
 {
   "data": {
+    "title": "用數據看台灣 - 世界統計資訊",
     "page": [
       {
         "title": "1960 ~ 2014 年世界 GDP 動態成長率變遷圖 (1960 ~ 2014 Global GDP growth rates interactive map)",
@@ -18,5 +19,6 @@
     ]
   },
   "layout": "./l/index.hbs",
-  "filename": "./l/index.html"
+  "filename": "./l/index.html",
+  "partials": "./include/partials.js"
 }

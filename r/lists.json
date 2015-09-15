@@ -1,5 +1,6 @@
 {
   "data": {
+    "title": "用數據看台灣 - 世界即時資訊",
     "page": [
       {
         "title": "世界新聞地圖",
@@ -11,5 +12,6 @@
     ]
   },
   "layout": "./r/index.hbs",
-  "filename": "./r/index.html"
+  "filename": "./r/index.html",
+  "partials": "./include/partials.js"
 }
