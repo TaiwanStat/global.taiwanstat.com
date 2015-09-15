@@ -153,7 +153,6 @@
       var raw = snapshot.val();  // Alerts "San Francisco"
       var data = JSON.parse(raw);
     google.maps.event.addDomListener(window, 'load', initMap(data));
-    document.getElementById("map").scrollIntoView()
   });
 
 })();
