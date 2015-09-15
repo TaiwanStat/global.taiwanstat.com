@@ -11,7 +11,8 @@ post_arr.push(real_lists);
 long_lists.data.page.forEach(function(p) {
   post_arr.push({
     "data": {
-      "chart_description": p
+      "chart_description": p,
+      "prefix": "r"
     },
     "partials": './include/partials.js',
     "layout": path.join('l', p.url, "index.hbs"),
@@ -22,7 +23,8 @@ long_lists.data.page.forEach(function(p) {
 real_lists.data.page.forEach(function(p) {
   post_arr.push({
     "data": {
-      "chart_description": p
+      "chart_description": p,
+      "prefix": "r"
     },
     "partials": './include/partials.js',
     "layout": path.join('r', p.url, "index.hbs"),
