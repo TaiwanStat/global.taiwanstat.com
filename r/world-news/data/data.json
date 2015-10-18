@@ -1,98 +1,110 @@
 [
     {
-        "country": "利比亞",
-        "date": "2015年 8月 26日",
-        "body": "意大利海岸警衛隊說，在利比亞沿海截獲的一艘載有移民的船的貨艙裏發現50具屍體。",
+        "date": "2015年 10月 9日",
+        "body": "經過長達數月的艱難談判，聯合國駐利比亞特使建議利比亞組建一個全國聯合政府。",
         "latlng": [
             26.3351,
             17.228331
         ],
-        "link": "http://www.bbc.com/zhongwen/trad/world/2015/08/150826_migrants_dead_bodies",
-        "img": "http://ichef.bbci.co.uk/news/ws/640/amz/worldservice/live/assets/images/2015/08/26/150826144203_poseidon_ship_vessel_640x360_ap_nocredit.jpg",
-        "title": "移民危機：利比亞沿海一艘船上發現50具屍體"
+        "title": "利比亞危機：聯合國建議組建聯合政府",
+        "img": "http://ichef.bbci.co.uk/news/ws/320/amz/worldservice/live/assets/images/2015/10/09/151009034923_bernardino_leon_976x549_ap_nocredit.jpg",
+        "link": "http://www.bbc.com/zhongwen/trad/world/2015/10/151009_libya_crisis_un_unity_government",
+        "country": "利比亞"
     },
     {
-        "country": "美國",
-        "date": "2015年 8月 26日",
-        "body": "美國聯邦調查局說，該局派遣了探員前往佛吉尼亞莫內塔調查幾個小時前發生的電視台記者與攝影被槍殺案件。",
-        "latlng": [
-            37.09024,
-            -95.712891
-        ],
-        "link": "http://www.bbc.com/zhongwen/trad/world/2015/08/150826_us_virginia_shooting_fbi",
-        "img": "http://ichef-1.bbci.co.uk/news/ws/624/amz/worldservice/live/assets/images/2015/08/26/150826140431_virginia_reporter_shooting_624x351_bbc_nocredit.jpg",
-        "title": "美國FBI急赴佛吉尼亞調查記者槍殺案"
-    },
-    {
-        "country": "肯尼亞",
-        "date": "2015年 8月 26日",
-        "body": "國際田聯周三（26日）說，兩名肯尼亞田徑代表隊的選手因為賽前藥檢不合格，而被禁止出賽。",
-        "latlng": [
-            -0.023559,
-            37.906193
-        ],
-        "link": "http://www.bbc.com/zhongwen/trad/world/2015/08/150826_beijing_iaaf_kenya",
-        "img": "http://ichef.bbci.co.uk/news/ws/624/amz/worldservice/live/assets/images/2015/08/26/150826114237_joyce_zakari_beijing_624x351_reuters.jpg",
-        "title": "兩肯尼亞選手藥檢未過關被國際田聯禁賽"
-    },
-    {
-        "country": "法國",
-        "date": "2015年 8月 26日",
-        "body": "法國檢方表示，一名全副武裝的男子上周在歐洲國際列車上試圖發動攻擊的事件是有目標的蓄謀行動。",
-        "latlng": [
-            46.227638,
-            2.213749
-        ],
-        "link": "http://www.bbc.com/zhongwen/trad/world/2015/08/150826_france_train_shooting_man_charged",
-        "img": "http://ichef-1.bbci.co.uk/news/ws/624/amz/worldservice/live/assets/images/2015/08/26/150826033302_ayoub_el-khazzani_624x351_afp_nocredit.jpg",
-        "title": "法國列車槍擊案：襲擊疑犯有蓄謀"
-    },
-    {
-        "country": "日本",
-        "date": "2015年 8月 25日",
-        "body": "美國太平洋艦隊司令、海軍上將斯威夫特在記者會上表示，海軍陸戰隊最先進的隱形戰機F-35將於「明年或後年」部署在太平洋地區。",
-        "latlng": [
-            36.204824,
-            138.252924
-        ],
-        "link": "http://www.bbc.com/zhongwen/trad/world/2015/08/150825_us_japan_f35_fighters",
-        "img": "http://ichef.bbci.co.uk/news/ws/624/amz/worldservice/live/assets/images/2015/08/25/150825195731_us_f-35b_624x351_reuters.jpg",
-        "title": "美軍明年或在日本基地部署F-35戰機"
-    },
-    {
-        "country": "新加坡",
-        "date": "2015年 8月 25日",
-        "body": "新加坡政府將於9月11日周五定為第17屆國會選舉投票日。政治觀察家認為，本屆大選的結果將確立新加坡政治是否真的走向兩黨制的道路。",
-        "latlng": [
-            1.352083,
-            103.819836
-        ],
-        "link": "http://www.bbc.com/zhongwen/trad/world/2015/08/150825_sg_election_two_parties",
-        "img": "http://ichef-1.bbci.co.uk/news/ws/640/amz/worldservice/live/assets/images/2015/08/25/150825075505_parliament_house_compound_in_singapore__640x360_getty.jpg",
-        "title": "分析：新加坡大選將決定是否邁向兩黨制"
-    },
-    {
-        "country": "韓",
-        "date": "2015年 8月 25日",
-        "body": "八月初在非武裝地帶（DMZ）發生地雷炸傷士兵事件，讓韓國決定重啟對朝擴音廣播，而朝鮮炮擊與宣佈進入凖戰時狀態，造成韓半島緊張。韓朝雙方自22日起舉行緊急對話，經3天的馬拉松式談判後，終於達成共識。",
-        "latlng": [
-            35.907757,
-            127.766922
-        ],
-        "link": "http://www.bbc.com/zhongwen/trad/world/2015/08/150825_skorea_nkorea_talks",
-        "img": "http://ichef.bbci.co.uk/news/ws/640/amz/worldservice/live/assets/images/2015/08/25/150825024521_kim_kwan-jin_hwang_pyong_so_640x360_ap.jpg",
-        "title": "韓朝談判達共識　朝解除「凖戰時狀態」"
-    },
-    {
-        "country": "中國",
-        "date": "2015年 8月 24日",
-        "body": "在中國上海股市下跌8.5%，創下2007年以來的最差紀錄之後，英國金融時報指數下跌4.6%，美國華爾街道瓊斯指數下跌3.57%。",
+        "date": "2015年 10月 9日",
+        "body": "據路透社引述緬甸和平談判人員指中國介入了緬甸執政黨與反叛武裝的停火談判，中國外交部則否認了這一指控。",
         "latlng": [
             35.86166,
             104.195397
         ],
-        "link": "http://www.bbc.com/zhongwen/trad/world/2015/08/150824_world_market",
-        "img": "http://ichef.bbci.co.uk/news/ws/512/amz/worldservice/live/assets/images/2015/08/24/150824181426_nasdaq_512x288_afp.jpg",
-        "title": "受中國股市下跌影響全球股市大幅下滑"
+        "title": "緬甸官員指中國干預反政府軍和平談判",
+        "img": "http://ichef-1.bbci.co.uk/news/ws/320/amz/worldservice/live/assets/images/2015/10/09/151009031452_myanmar_thein_sein_handshake_976x549_afp_nocredit.jpg",
+        "link": "http://www.bbc.com/zhongwen/trad/world/2015/10/151009_myanmar_peace_talk_china",
+        "country": "中國"
+    },
+    {
+        "date": "2015年 10月 8日",
+        "body": "匿名的美國官員透露，俄羅斯從裏海向敘利亞發射的巡航導彈，有4枚落入伊朗境內，暫時不清楚有沒有造成傷亡。",
+        "latlng": [
+            37.09024,
+            -95.712891
+        ],
+        "title": "美官員稱4枚俄導彈落在伊朗傷亡不詳",
+        "img": "http://ichef.bbci.co.uk/news/ws/320/amz/worldservice/live/assets/images/2015/10/08/151008195852_russian_missile_512x288_russiandefenceministry_nocredit.jpg",
+        "link": "http://www.bbc.com/zhongwen/trad/world/2015/10/151008_russia_missiles_iran",
+        "country": "美"
+    },
+    {
+        "date": "2015年 10月 8日",
+        "body": "今年8月在法國列車上成功阻止恐怖襲擊發生的3個美國英雄之一的斯通，在加州首府被刺傷，身中數刀，送醫後情況穩定。 ",
+        "latlng": [
+            37.09024,
+            -95.712891
+        ],
+        "title": "美國反恐英雄遇刺受傷送院救治",
+        "img": "http://ichef.bbci.co.uk/news/ws/320/amz/worldservice/live/assets/images/2015/10/08/151008190539_spencer_stone_640x360_epa.jpg",
+        "link": "http://www.bbc.com/zhongwen/trad/world/2015/10/151008_us_hero_stabbed",
+        "country": "美國"
+    },
+    {
+        "date": "2015年 10月 8日",
+        "body": "北約秘書長斯托爾滕貝格表示面對俄國在敘利亞的軍事干預「升級」，北約將履行保衛一切盟友的諾言。",
+        "latlng": [
+            34.80207499999999,
+            38.996815
+        ],
+        "title": "敘利亞危機：北約重申誓將保衛所有盟友",
+        "img": "http://ichef-1.bbci.co.uk/news/ws/320/amz/worldservice/live/assets/images/2015/10/08/151008131726_stoltenberg_640x360_afp_nocredit.jpg",
+        "link": "http://www.bbc.com/zhongwen/trad/world/2015/10/151008_nato_assurance",
+        "country": "敘利亞"
+    },
+    {
+        "date": "2015年 10月 8日",
+        "body": "日本媒體報道，日本首相安倍晉三周四（10月8日）下午在東京可能與台灣在野民進黨主席蔡英文有過非正式接觸，但當事人則否認。 ",
+        "latlng": [
+            55.378051,
+            -3.435973
+        ],
+        "title": "日媒：安倍晉三可能與蔡英文非正式接觸",
+        "img": "http://ichef.bbci.co.uk/news/ws/320/amz/worldservice/live/assets/images/2015/10/07/151007142345_caiyingwen_jp624.jpg",
+        "link": "http://www.bbc.com/zhongwen/trad/world/2015/10/151008_japan_press_abe_caiyingwen",
+        "country": "英"
+    },
+    {
+        "date": "2015年 10月 8日",
+        "body": "2015年諾貝爾文學獎揭曉，獲獎者是白俄羅斯女記者和俄語散文作家斯維拉娜·阿列克謝耶維奇。",
+        "latlng": [
+            53.709807,
+            27.953389
+        ],
+        "title": "白俄羅斯女作家獲2015年諾貝爾文學獎",
+        "img": "http://ichef-1.bbci.co.uk/news/ws/320/amz/worldservice/live/assets/images/2015/10/08/151008110515_svetlana_alexievitch__640x360_afp.jpg",
+        "link": "http://www.bbc.com/zhongwen/trad/world/2015/10/151008_nobel_literature",
+        "country": "白俄羅斯"
+    },
+    {
+        "date": "2015年 10月 8日",
+        "body": "北約成員國防長會議在布魯塞爾舉行時，預料俄羅斯在敘利亞衝突中日益增強的軍事干預將是會議的重要議題。",
+        "latlng": [
+            61.52401,
+            105.318756
+        ],
+        "title": "敘利亞危機：北約將針對俄羅斯空襲展開磋商",
+        "img": "http://ichef.bbci.co.uk/news/ws/320/amz/worldservice/live/assets/images/2015/10/08/151008030107_su-34_bomber__976x549_epa_nocredit.jpg",
+        "link": "http://www.bbc.com/zhongwen/trad/world/2015/10/151008_syria_crisis_nato_russian_air-campaign",
+        "country": "俄羅斯"
+    },
+    {
+        "date": "2015年 10月 7日",
+        "body": "德法兩國領袖向歐洲議會發表演說，呼籲歐盟團結一致，應對難民危機。這是德、法領袖在25年來首次在歐洲議會聯合演說。",
+        "latlng": [
+            46.227638,
+            2.213749
+        ],
+        "title": "德法領袖呼籲歐盟團結一致應對難民危機",
+        "img": "http://ichef-1.bbci.co.uk/news/ws/320/amz/worldservice/live/assets/images/2015/10/07/151007222518_angela_merkel_and_francois_hollande__640x360_afp.jpg",
+        "link": "http://www.bbc.com/zhongwen/trad/world/2015/10/151007_germany_france_eu",
+        "country": "法"
     }
 ]
