@@ -6,12 +6,15 @@
   var height = $(window).height() + 150;
   var key = 'Requests_for_User_Data';
   var data;
+  var font_size = '12px';
 
   var padding = 48;
   if (diameter < 600) {
     diameter = $(window).width() - 20;
-    padding = 200;
+    padding = 220;
+    font_size = '9px';
   }
+
   var bubble = d3.layout.pack()
       .sort(null)
       .size([diameter, height])
@@ -76,7 +79,7 @@
         .attr("dy", ".3em")
         .style("text-anchor", "middle")
         .style("pointer-events", "none")
-        .style('font-size', '12px')
+        .style('font-size', font_size)
         .style('z-index', '20')
         .text(function(d) {
           return d.className; 
