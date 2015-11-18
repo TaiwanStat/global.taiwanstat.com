@@ -149,6 +149,20 @@
       .attr("width", diameter)
       .attr("height", height + 200)
       .attr("class", "bubble");
+
+    tooltip = d3.select("#chart")
+      .append("div")
+      .style("position", "absolute")
+      .style("z-index", "10")
+      .style("visibility", "hidden")
+      .style("color", "white")
+      .style("padding", "8px")
+      .style("background-color", "rgba(0, 0, 0, 0.75)")
+
+      .style("border-radius", "6px")
+      .style("font", "12px sans-serif")
+      .text("tooltip");
+
     draw(data);
   });
 
