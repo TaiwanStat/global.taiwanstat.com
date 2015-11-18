@@ -72,8 +72,10 @@
           return tooltip.style("visibility", "hidden");}
         );
 
-    d3.select('.台灣').style('stroke', '#222');
-    d3.select('.台灣').style('stroke-width', '3');
+    if ($(window).width() > 600) {
+      d3.select('.台灣').style('stroke', '#222');
+      d3.select('.台灣').style('stroke-width', '3');
+    }
 
     node.append("text")
         .attr("dy", ".3em")
