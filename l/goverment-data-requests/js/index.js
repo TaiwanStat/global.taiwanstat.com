@@ -136,5 +136,20 @@
         });
       }
     });
+  $(window).resize(function(){ 
+    diameter = $('#chart').width();
+    height = $(window).height() + 150;
+    $('#chart').empty();
+    bubble = d3.layout.pack()
+      .sort(null)
+      .size([diameter, height])
+      .padding(padding);
+
+    svg = d3.select("#chart").append("svg")
+      .attr("width", diameter)
+      .attr("height", height + 200)
+      .attr("class", "bubble");
+    draw(data);
+  });
 
 })(window);
