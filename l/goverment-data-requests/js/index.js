@@ -9,8 +9,8 @@
 
   var padding = 48;
   if (diameter < 600) {
-    height = 700;
-    padding = 70;
+    diameter = $(window).width() - 20;
+    padding = 200;
   }
   var bubble = d3.layout.pack()
       .sort(null)
