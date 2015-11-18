@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang='zh-TW'>
+  <head>
+    {{> head}}
+    <!-- my js & css -->
+    <link rel="stylesheet" type="text/css" href="./css/style.css">
+  </head>
+  <body>
+    {{> header}}
+    {{> start}}
+
+    <ul>
+      <li>資料來源：<a href="https://govtrequests.facebook.com/#">Facebook政府資料索取要求報告</a></li>
+    </ul>
+
+     <div class="ui form">
+      <div class="inline fields">
+        <label>選擇呈現資料類型：</label>
+        <div class="field">
+          <div class="ui radio checkbox">
+            <input type="radio" name="type" value="Requests_for_User_Data" checked="checked">
+            <label>政府要求次數</label>
+          </div>
+        </div>
+        <div class="field">
+          <div class="ui radio checkbox">
+            <input type="radio" name="type" value="User_Accounts_Referenced">
+            <label>政府要求中指定的帳號數</label>
+          </div>
+        </div> 
+      </div>
+    </div>
+   
+    <!-- my charts -->
+    <div id="chart" class="chart">
+
+    </div>
+    {{> end}}
+    <!-- my js & css -->
+    {{> footer}}
+    <script type="text/javascript" src="./js/index.js"></script>
+  </body>
+</html>

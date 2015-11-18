@@ -3,6 +3,13 @@
     "title": "用數據看台灣 - 世界統計資訊",
     "page": [
       {
+        "title": "2013年1月～2015年6月 世界各國政府索取Facebook資料統計",
+        "url": "goverment-data-requests",
+        "img": "/images/l/goverment-data-requests.png",
+        "description": "你知道各國政府向Facebook取得多少資料嗎？台灣又是如何呢？",
+        "author": "Chi-Hsuan Huang"
+      },
+      {
         "title": "1960 ~ 2014 年世界 GDP 動態成長率變遷圖 (1960 ~ 2014 Global GDP growth rates interactive map)",
         "url": "history-gdp-growth",
         "img": "/images/l/history-gdp-growth.png",
