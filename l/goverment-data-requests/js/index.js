@@ -102,7 +102,7 @@
         color = '#1f77b4';
       }
       else if (value < 5000) {
-        color = 'ff9896';
+        color = '#ff9896';
       }
       else if (value < 10000) {
         color = '#ffbb78';
