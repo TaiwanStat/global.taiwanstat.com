@@ -12,7 +12,7 @@ long_lists.data.page.forEach(function(p) {
   post_arr.push({
     "data": {
       "chart_description": p,
-      "prefix": "r"
+      "prefix": "l"
     },
     "partials": './include/partials.js',
     "layout": path.join('l', p.url, "index.hbs"),
