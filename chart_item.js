@@ -12,7 +12,8 @@ long_lists.data.page.forEach(function(p) {
   post_arr.push({
     "data": {
       "chart_description": p,
-      "prefix": "l"
+      "prefix": "l",
+      "domain": "http://global.taiwanstat.com/"
     },
     "partials": './include/partials.js',
     "layout": path.join('l', p.url, "index.hbs"),
@@ -24,7 +25,8 @@ real_lists.data.page.forEach(function(p) {
   post_arr.push({
     "data": {
       "chart_description": p,
-      "prefix": "r"
+      "prefix": "r",
+      "domain": "http://global.taiwanstat.com/"
     },
     "partials": './include/partials.js',
     "layout": path.join('r', p.url, "index.hbs"),

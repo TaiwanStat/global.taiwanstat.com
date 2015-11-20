@@ -5,21 +5,21 @@
       {
         "title": "2013年1月～2015年6月 世界各國政府索取Facebook資料統計",
         "url": "goverment-data-requests",
-        "img": "/images/l/goverment-data-requests.png",
+        "img": "images/l/goverment-data-requests.png",
         "description": "你知道各國政府向Facebook取得多少資料嗎？台灣又是如何呢？",
         "author": "Chi-Hsuan Huang"
       },
       {
         "title": "1960 ~ 2014 年世界 GDP 動態成長率變遷圖 (1960 ~ 2014 Global GDP growth rates interactive map)",
         "url": "history-gdp-growth",
-        "img": "/images/l/history-gdp-growth.png",
+        "img": "images/l/history-gdp-growth.png",
         "description": "在每日潛移默化的世界中，各國的 GDP 每年如何演化呢？讓我們來看看 1960 ~ 2014 年世界 GDP 動態成長率變遷圖",
         "author": "Li-Jung Chi"
       },
       {
         "title": "2014 世界 GDP 成長率 (2014 Global GDP growth rates)",
         "url": "gdp-growth",
-        "img": "/images/l/gdp-growth.png",
+        "img": "images/l/gdp-growth.png",
         "description": "台灣在國際的經濟成長到底如何呢？我們相較於其他國家在 2014 年的 GDP 是否落後還是成長？讓我們來瀏覽整個世界各地的 GDP 成長率吧！",
         "author": "Li-Jung Chi"
       }
