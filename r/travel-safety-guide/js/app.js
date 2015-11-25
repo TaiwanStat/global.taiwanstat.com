@@ -20,21 +20,25 @@ $.getJSON('country_abbr.json', function(country_abbr) {
       if (alert_color === 0) {
         alert_data[country_abbr[country]] = {
           'fillKey': 'Gray_alert',
+          "msg": "提醒注意"
         };
       }
       else if (alert_color == 1) {
         alert_data[country_abbr[country]] = {
           'fillKey': 'Yellow_alert',
+          "msg": "特別注意旅遊安全並檢討應否前往"
         };
       }
       else if (alert_color == 2) {
         alert_data[country_abbr[country]] = {
           'fillKey': 'Orange_alert',
+          "msg": "高度小心,避免非必要旅行"
         };
       }
       else if (alert_color == 3) {
         alert_data[country_abbr[country]] = {
           'fillKey': 'Red_alert',
+          "msg": "不宜前往"
         };
       }
       alert_data[country_abbr[country]].reason = props.reason;
@@ -66,12 +70,11 @@ $.getJSON('country_abbr.json', function(country_abbr) {
             twName = ' ' + lang[name].tw;
 
           if (data && data.reason) {
-            var cololr = fills[data.fillKey];
             return '<div class="hoverinfo msg">' + 
-              '<h5 ' + 'style="color:' + cololr + '">' + name + twName + '</h5>' +
-              data.reason + '';
+              '<h5>' + name + twName + data.msg+ '</h5>' + data.reason + '';
           }
-          return '<div class="hoverinfo">' + name + twName + '</div>';
+          return '<div class="hoverinfo msg"><h5>' + name + twName + 
+            ' 正常狀態</h5></div>';
         }
       }
     });
