@@ -3,6 +3,14 @@
     "title": "用數據看台灣 - 世界即時資訊",
     "page": [
       {
+        "title": "世界旅遊警示圖",
+        "url": "travel-safety-guide",
+        "img": "images/r/world_news.png",
+        "description": "最近我們要出國哪些地方需要特別小心呢？！",
+        "author": "Pei-Hsuan, Hsieh",
+        "collaborator": "Po-An, Yang, Chi-Hsuan, Huang"
+      },
+      {
         "title": "世界新聞地圖",
         "url": "world-news",
         "img": "images/r/world_news.png",
