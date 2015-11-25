@@ -1,0 +1,82 @@
+body{
+}
+#container{
+  margin: auto;
+  width: 95%;
+  position: relative;
+  min-height: 600px;
+}
+.msg h5{
+  margin: 10px;
+}
+.msg {
+  margin: 20px;
+  position: fixed;
+  left: 20px;
+  top: 45px;
+  max-height: 420px;
+  overflow: auto;
+  width: 90%;
+}
+.msg caption {
+  display: none;
+}
+.hoverinfo table{
+  font-size: 14px;
+}
+.hoverinfo th{
+  width: 120px;
+  font-weight: normal;
+}
+#head{
+  font-size:45px;
+  color: white;
+  margin-left:3%; 
+  margin-top: 3%;
+}
+.ps{
+  border-radius: 25px;
+  background:white;
+  opacity: 0.9;
+  padding: 10px;
+  z-index:10;
+  position: absolute;
+  bottom: 10px;
+  width: 25%;
+  min-width: 280px;
+  font-size: 0.9rem;
+  max-width: 500px;
+}
+.note{
+  display: block;
+  z-index: 30;
+  height: 30px;
+}
+.icon{
+  padding: 5px;
+  float: left;
+}
+.text{
+  position: relative;
+  padding: 5px;
+  left: 10px;
+}
+.green{
+}
+.grey{
+}
+.yellow{
+}
+.orange{
+ }
+ .red{
+}
+.author h5 {
+  font-size: 14px;
+}
+
+@media all and (max-width: 650px) {
+  .note {
+    font-size: 0.8rem;
+  }
+}

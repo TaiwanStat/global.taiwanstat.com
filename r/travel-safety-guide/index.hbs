@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        {{> head}}
+        <link rel="stylesheet" type="text/css" href="css/index.css">
+
+    </head>
+    <body>
+      {{> header}}
+      {{> start}}
+        <div id="container">
+          <ul>
+            <li>資料來源：<a href="http://www.boca.gov.tw/lp.asp?ctNode=754&CtUnit=32&BaseDSD=13&mp=1">外交部領事事務局</a></li>
+            <li>更新頻率：每天</li>
+            <li>最後更新時間：<span id="updateAt"></span></li>
+          </ul>
+            <div class="ps" width="330" height="180">
+              <div class="note">  
+                <svg class="green icon"width="20" height="20">
+                  <rect width="15" height="15" style="fill:#ccffcc;"/> 
+                </svg>
+                <div class="green text">綠色-正常狀態</div>
+              </div>
+              <div class="note">  
+                <svg class='grey icon'width="20" height="20">
+                    <rect width="15" height="15" style="fill:#b2b2b2;"/> 
+                </svg>
+                <div class="grey text">灰色-提醒注意</div>
+              </div>
+              <div class="note">  
+                <svg class='yellow icon' width="20" height="20">
+                    <rect width="15" height="15" style="fill:rgb(243, 215, 100);"/> 
+                </svg>
+                <div class="yellow text" >黃色-特別注意旅遊安全並檢討應否前往</div>
+              </div>
+              <div class="note">  
+                <svg class='orange icon'width="20" height="20">
+                    <rect width="15" height="15" style="fill:rgb(214, 39, 40);"/> 
+                </svg>
+                <div class='orange text' >橙色-高度小心,避免非必要旅行</div>
+              </div>
+              <div class="note">  
+                <svg class='red icon'width="20" height="20">
+                    <rect width="15" height="15" style="fill:rgb(214, 39, 40);"/> 
+                </svg>
+                <div class="red note text">紅色-不宜前往</div>
+              </div>
+            </div>
+          </div>
+        {{>end}}
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="js/datamaps.world.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="js/app.js" type="text/javascript" charset="utf-8" async></script>
+        {{> footer}}
+    </body>
+</html>
