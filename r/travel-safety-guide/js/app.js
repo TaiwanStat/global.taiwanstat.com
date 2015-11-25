@@ -43,18 +43,19 @@ $.getJSON('country_abbr.json', function(country_abbr) {
     if ($(window).width() < 600) {
       height = 250;
     }
+    var fills = {
+      Gray_alert: '#7f7f7f',
+      Yellow_alert: '#F3D764',
+      Orange_alert: '#ff7f0e',
+      Red_alert: '#d62728',
+      defaultFill: '#abdda4'
+    };
 
     var map = new Datamap({
       element: document.getElementById('container'),
       width: $('#container').width(),
       height: height,
-      fills: {
-        Gray_alert: '#7f7f7f',
-        Yellow_alert: '#F3D764',
-        Orange_alert: '#ff7f0e',
-        Red_alert: '#d62728',
-        defaultFill: '#abdda4'
-      },
+      fills: fills,
       borderColor: '#FDFDFD',
       data: alert_data,
       geographyConfig: {
@@ -65,8 +66,9 @@ $.getJSON('country_abbr.json', function(country_abbr) {
             twName = ' ' + lang[name].tw;
 
           if (data && data.reason) {
+            var cololr = fills[data.fillKey];
             return '<div class="hoverinfo msg">' + 
-              '<h5>國名：' + name + twName + '</h5>' +
+              '<h5 ' + 'style="color:' + cololr + '">' + name + twName + '</h5>' +
               data.reason + '';
           }
           return '<div class="hoverinfo">' + name + twName + '</div>';

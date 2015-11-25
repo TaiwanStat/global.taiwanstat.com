@@ -9,14 +9,19 @@ body{
 .msg h5{
   margin: 10px;
 }
-.msg {
-  margin: 20px;
+.hoverinfo {
   position: fixed;
   left: 20px;
+  margin: 20px;
   top: 45px;
-  max-height: 420px;
+}
+.msg {
+  margin: 20px;
+  max-height: 450px;
   overflow: auto;
-  width: 90%;
+  width: 80%;
+  min-height: 200px;
+  border: 2px solid rgb(10, 162, 219) !important;
 }
 .msg caption {
   display: none;
