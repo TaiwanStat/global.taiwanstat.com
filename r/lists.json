@@ -3,6 +3,13 @@
     "title": "用數據看台灣 - 世界即時資訊",
     "page": [
       {
+        "title": "中國空氣品質地圖",
+        "url": "cn-air-map",
+        "img": "images/r/cn-air-map.jpg",
+        "description": "中國的空氣品質深深地影響鄰近的各國，讓我們一起看看中國的空氣狀況吧！",
+        "author": "Chi-Hsuan, Huang"
+      },
+      {
         "title": "世界旅遊警示圖",
         "url": "travel-safety-guide",
         "img": "images/r/travel-safety-guide.jpg",
