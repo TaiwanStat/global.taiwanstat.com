@@ -10,7 +10,10 @@ $.getJSON('country_abbr.json', function(country_abbr) {
 
     $.each(gov_notice, function(country, props) {
       var alert_color = props.level;
+      country = country.split(',')[0].replace(/\s+$/, '');
+
       if (!country_abbr.hasOwnProperty(country)) {
+      console.log(country);
         return;
       }
 
