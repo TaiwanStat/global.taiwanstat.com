@@ -75,3 +75,11 @@ tspan {
 .ui.buttons .button {
   font-weight: 200;
 }
+
+@media all and (max-width: 600px) {
+  #year-label {
+    left: 20px;
+    position: relative;
+    top: 0px
+  }
+}
