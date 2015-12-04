@@ -1,12 +1,20 @@
 #slider {
-margin-bottom: 30px;
+  margin-bottom: 30px;
 }
 #graph {
-  float: left;
-  margin-bottom: 10px;
+  height: 100%;
 }
 #graph svg{
   background-color:#B5D0D0;
+}
+#year-label {
+  position: absolute;
+  right: 12%;
+  top: 700px;
+  z-index: 99;
+  font-size: 70px;
+  font-weight: 700;
+  color: #73A1BF;
 }
 #states path {
   fill: #F1EEE8;

@@ -4,13 +4,14 @@ $("#slider").slider({
 	max: 2013,
 	step: 1,
 	slide: function( event, ui ) {
-		$("#year").val(ui.value);
+		$("#year-label").text(ui.value);
 		redraw(ui.value.toString());
 	}
 });
 
 var countrydebt;
 var isDebt = false;
+	$("#year-label").text("2013");
 
 d3.json("./data.json", function(d) {
   countrydebt = d;
@@ -282,7 +283,7 @@ function clicked(d){
 function bardraw(d, year){
 	var dataset = [];
 	var datasetbar = [];
-	var bar =svgbar.attr("width", '400').attr("height", '500')
+	var bar =svgbar.attr("width", '400').attr("height", '320')
 			.selectAll("g")
 				.data(d)
 			.enter().append("g")
@@ -333,9 +334,9 @@ function redrawbar(d,year){
 
 			svgbar.transition()
 				.attr("width", w)
-				.attr("height", function(d){return 500;})
+				.attr("height", function(d){return 320;})
 			svgbar.selectAll("g").remove();
-			var bar =svgbar.attr("width", w).attr("height", data[range].length*27)
+			var bar =svgbar.attr("width", w).attr("height", 320)
 				.selectAll("g")
 					.data(data[range])
 				.enter().append("g")
