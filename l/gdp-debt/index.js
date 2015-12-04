@@ -126,7 +126,7 @@ state_data.on("value",function(gdp){
 	labels.selectAll("text")
 		.append("tspan")
       .text(function(d) { 
-			  return Math.round(d[$("#slider").slider("value")]/1000000000000) +  "兆美金"; 
+			  return Math.round(d[$("#slider").slider("value")]/1000000000)/1000 +  "兆美金"; 
       })
 			.attr("x", function(d, i) { return xy([+d["longitude"],+d["latitude"]])[0]; })
 			.attr("dy", "1em")
@@ -180,7 +180,7 @@ statedebt.on("value",function(debt){
 	labels.selectAll("text")
 		.append("tspan")
       .text(function(d) { 
-			  return Math.round(d[$("#slider").slider("value")]/1000000000000) +  "兆美金"; 
+			  return Math.round(d[$("#slider").slider("value")]/1000000000)/1000 +  "兆美金"; 
       })
 			.attr("x", function(d, i) { return xy([+d["longitude"],+d["latitude"]])[0]; })
 			.attr("dy", "1em")
@@ -242,7 +242,7 @@ function clicked(d){
 			labels.selectAll("text")
 				.append("tspan")
           .text(function(d) { 
-			      return Math.round(d[$("#slider").slider("value")]/1000000000000) +  "兆美金"; 
+			      return Math.round(d[$("#slider").slider("value")]/1000000000)/1000 +  "兆美金"; 
           })
 					.attr("x", function(d, i) { return xy([+d["longitude"],+d["latitude"]])[0]; })
 					.attr("dy", "1em")
@@ -298,7 +298,7 @@ function bardraw(d, year){
       .attr("y", barHeight / 2)
       .attr("dy", ".5em")
       .text(function(d) { 
-				  return d["Country Name"] + " " + (Math.round(d[year]/1000000000000)) + '兆美金';
+				  return d["Country Name"] + " " + (Math.round(d[year]/1000000000))/1000 + '兆美金';
       });
 
     sortbar(d,bar,dataset);
@@ -386,7 +386,7 @@ function redraw(year) {
 	labels.selectAll("text")
 		.append("tspan")
 			.text(function(d) { 
-			  return Math.round(d[year]/1000000000000) +  "兆美金"; 
+			  return Math.round(d[year]/1000000000)/1000 +  "兆美金"; 
 			})
 			.attr("x", function(d, i) { return xy([+d["longitude"],+d["latitude"]])[0]; })
 			.style("font-size", "10")
@@ -401,6 +401,6 @@ function redraw(year) {
 		.duration(100)
 			.attr("x",function(d) { return 20;})
 			.text(function(d) { 
-				  return d["Country Name"] + " " + (Math.round(d[year]/1000000000000)) + '兆美金';
+				  return d["Country Name"] + " " + (Math.round(d[year]/1000000000))/1000 + '兆美金';
 			})
 };
