@@ -93,9 +93,8 @@ GDP();
 
 function GDP(){
   isDebt = false;
-	document.getElementById("gdp").disabled = true;
-	document.getElementById("debt").disabled = false;
-
+	$('#debt').removeClass("blue");
+	$('#gdp').addClass("blue");
 	state_data = stategdp;
 	country_data = countrygdp;
 	scalefactor=1./60000. ;
@@ -147,8 +146,8 @@ state_data.on("value",function(gdp){
 
 function DEBT(){
   isDebt = true
-	document.getElementById("debt").disabled = true;
-	document.getElementById("gdp").disabled = false;
+	$('#debt').addClass("blue");
+	$('#gdp').removeClass("blue");
 
 	scalefactor=1./20000. ;
 

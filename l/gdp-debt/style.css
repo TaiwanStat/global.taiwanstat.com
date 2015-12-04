@@ -20,6 +20,7 @@ text {
   background: rgb(181, 208, 208);
   border-radius: 3px;
   padding: 10px;
+  padding-top: 30px;
   position: relative;
   width: 360px;
   float: left;
@@ -59,4 +60,7 @@ tspan {
   -o-user-select: none;
   user-select: none;
   color:red;
+}
+.ui.buttons .button {
+  font-weight: 200;
 }
