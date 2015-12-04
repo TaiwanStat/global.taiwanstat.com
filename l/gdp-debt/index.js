@@ -8,8 +8,10 @@ $("#slider").slider({
 		redraw(ui.value.toString());
 	}
 });
+
 var countrydebt;
 var isDebt = false;
+
 d3.json("./data.json", function(d) {
   countrydebt = d;
 });
@@ -23,9 +25,11 @@ windowWidth = $(window).width();
 
 var w = 720;
 var h = 500;
+var s = 120;
 
 if (windowWidth < 600) {
   w = windowWidth;
+  s = 90;
 }
 
 var stateMap = {
@@ -52,7 +56,7 @@ var scaleX  = d3.scale.linear().range([0, 320]);
 var scalefactor=1./60000. ;
 
 var xy = d3.geo.equirectangular()
-	.scale(120)
+	.scale(s)
 	.translate([w / 2, h / 2]);
 
 var path = d3.geo.path()
