@@ -144,10 +144,7 @@ function DEBT(){
 	country_data = countrydebt;
 	scalefactor=1./20000. ;
 
-
-
 statedebt.on("value",function(debt){
-
 	circles.selectAll("circle")
 		.data(debt.val())
 	.enter()
