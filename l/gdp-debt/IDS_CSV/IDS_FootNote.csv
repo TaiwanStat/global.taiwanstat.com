@@ -1,0 +1,1385 @@
+CountryCode,SeriesCode,Year,Description
+LSO,DT.INT.DLXF.CD,YR2007,A large interest payment was made during 2007 to a creditor country to settle a long standing claim.
+MEX,DT.DOD.DECT.CD,YR2009,Adjustments in the stock of debt in 2009 are mainly due to repurchased of $23 billions. PIDIREGAS bonds in 2007 and 2008 were not accounted by the Government until 2009.
+SRB,DT.DOD.DECT.CD,YR2006,Beginning 2006 the DRS data for Serbia exclude Montenegro.
+PNG,BX.KLT.DINV.CD.DT,YR2006,Country data.
+PNG,BX.KLT.DINV.CD.DT,YR2007,Country data.
+PNG,BX.KLT.DINV.CD.DT,YR2008,Country data.
+PNG,BX.KLT.DINV.CD.DT,YR2009,Country data.
+SDN,BX.KLT.DINV.CD.DT,YR2009,Country data.
+SDN,BX.PEF.TOTL.CD.DT,YR2009,Country data.
+MYS,BX.KLT.DINV.CD.DT,YR2009,Country data.
+SWZ,BX.KLT.DINV.CD.DT,YR2008,Country data.
+SWZ,BX.KLT.DINV.CD.DT,YR2009,Country data.
+SWZ,BX.PEF.TOTL.CD.DT,YR2009,Country data.
+VUT,BX.KLT.DINV.CD.DT,YR2008,Country data.
+VUT,BX.KLT.DINV.CD.DT,YR2009,Country data.
+KSV,BX.KLT.DINV.CD.DT,YR2008,Country data.
+KSV,BX.KLT.DINV.CD.DT,YR2009,Country data.
+MDG,BX.KLT.DINV.CD.DT,YR2008,Country data.
+MDG,BX.KLT.DINV.CD.DT,YR2009,Country data.
+MDV,BX.KLT.DINV.CD.DT,YR2009,Country data.
+MNE,BX.KLT.DINV.CD.DT,YR2007,Country data.
+MNE,BX.KLT.DINV.CD.DT,YR2008,Country data.
+MNE,BX.KLT.DINV.CD.DT,YR2009,Country data.
+MNE,BX.PEF.TOTL.CD.DT,YR2007,Country data.
+MNE,BX.PEF.TOTL.CD.DT,YR2008,Country data.
+MNE,BX.PEF.TOTL.CD.DT,YR2009,Country data.
+MNG,BX.KLT.DINV.CD.DT,YR2009,Country data.
+GMB,BX.KLT.DINV.CD.DT,YR2009,Country data.
+HND,BX.KLT.DINV.CD.DT,YR2009,Country data.
+IND,BX.KLT.DINV.CD.DT,YR2009,Country data.
+IND,BX.PEF.TOTL.CD.DT,YR2009,Country data.
+LAO,BX.KLT.DINV.CD.DT,YR2008,Country data.
+LAO,BX.KLT.DINV.CD.DT,YR2009,Country data.
+BWA,BX.PEF.TOTL.CD.DT,YR2009,Country data.
+BOL,BX.KLT.DINV.CD.DT,YR2009,Country data.
+ZMB,BX.KLT.DINV.CD.DT,YR2009,Country data.
+YEM,BX.KLT.DINV.CD.DT,YR1970,"Data are for People's Democratic Republic of Yemen. Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+YEM,BX.KLT.DINV.CD.DT,YR1971,"Data are for People's Democratic Republic of Yemen. Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+YEM,BX.KLT.DINV.CD.DT,YR1972,"Data are for People's Democratic Republic of Yemen. Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+YEM,BX.KLT.DINV.CD.DT,YR1973,"Data are for People's Democratic Republic of Yemen. Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+YEM,BX.KLT.DINV.CD.DT,YR1974,"Data are for People's Democratic Republic of Yemen. Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+YEM,BX.KLT.DINV.CD.DT,YR1975,"Data are for People's Democratic Republic of Yemen. Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+YEM,BX.KLT.DINV.CD.DT,YR1976,"Data are for People's Democratic Republic of Yemen. Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+YEM,BX.KLT.DINV.CD.DT,YR1977,"Data are for People's Democratic Republic of Yemen. Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+YEM,BX.KLT.DINV.CD.DT,YR1978,"Data are for People's Democratic Republic of Yemen. Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+YEM,BX.KLT.DINV.CD.DT,YR1979,"Data are for People's Democratic Republic of Yemen. Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+YEM,BX.KLT.DINV.CD.DT,YR1980,"Data are for People's Democratic Republic of Yemen. Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+YEM,BX.KLT.DINV.CD.DT,YR1981,"Data are for People's Democratic Republic of Yemen. Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+YEM,BX.KLT.DINV.CD.DT,YR1982,"Data are for People's Democratic Republic of Yemen. Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+YEM,BX.KLT.DINV.CD.DT,YR1983,"Data are for People's Democratic Republic of Yemen. Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+YEM,BX.KLT.DINV.CD.DT,YR1984,"Data are for People's Democratic Republic of Yemen. Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+YEM,BX.KLT.DINV.CD.DT,YR1985,"Data are for People's Democratic Republic of Yemen. Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+YEM,BX.KLT.DINV.CD.DT,YR1986,"Data are for People's Democratic Republic of Yemen. Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+YEM,BX.KLT.DINV.CD.DT,YR1987,"Data are for People's Democratic Republic of Yemen. Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+YEM,BX.KLT.DINV.CD.DT,YR1988,"Data are for People's Democratic Republic of Yemen. Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+YEM,BX.KLT.DINV.CD.DT,YR1989,"Data are for People's Democratic Republic of Yemen. Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TZA,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+TCD,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+ZAR,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+STP,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+TGO,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+UGA,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+MWI,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+NIC,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+NER,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+MRT,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+MOZ,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+RWA,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+SEN,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+SLE,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+CAF,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+CIV,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+CMR,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+COM,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+COG,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+ETH,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+GHA,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+GIN,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+BOL,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+BEN,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+BFA,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+AFG,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+BDI,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+LAO,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+GUY,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+HND,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+HTI,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+GMB,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+GNB,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+MLI,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+LBR,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+ZMB,DT.DOD.PVLX.CD,YR2012,Data are from debt sustainability analyses for low-income countries. Present value estimates for these countries are for public and publicly guaranteed debt only.
+NGA,DT.DOD.DECT.CD,YR1992,Data for 1992 are World Bank staff estimates.
+NGA,DT.DOD.DECT.CD,YR1993,Data for 1993 are World Bank staff estimates.
+NGA,DT.DOD.DECT.CD,YR1994,Data for 1994 are World Bank staff estimates.
+NGA,DT.DOD.DECT.CD,YR1995,Data for 1995 are World Bank staff estimates.
+NGA,DT.DOD.DECT.CD,YR1996,Data for 1996 are World Bank staff estimates.
+NGA,DT.DOD.DECT.CD,YR1997,Data for 1997 are World Bank staff estimates.
+NGA,DT.DOD.DECT.CD,YR1998,Data for 1998 are World Bank staff estimates.
+PER,DT.AMT.DLXF.CD,YR2007,Data for 2007 include bond prepayments and prepayments to Paris Club creditors.
+PER,DT.DOD.DECT.CD,YR2007,Data include Bond prepayment and prepayment to Paris Club creditors.
+PER,DT.INT.PBND.CD,YR2007,Data include Bond prepayments.
+PER,DT.AMT.PBND.CD,YR2007,Data include Bond prepayments.
+PER,DT.TDS.PBND.CD,YR2007,Data include Bond prepayments.
+PER,DT.AMT.BLAT.CD,YR2007,Data include prepayments to Paris Club creditors.
+PER,DT.TDS.BLAT.CD,YR2007,Data include prepayments to Paris Club creditors.
+PER,DT.INT.BLAT.CD,YR2007,Data include prepayments to Paris Club creditors.
+GHA,DT.DOD.DECT.CD,YR2005,Data include the effects of a Paris Club debt restructuring agreement.
+HND,DT.DOD.DECT.CD,YR2005,Data include the effects of a Paris Club debt restructuring agreement.
+IDN,DT.DOD.DECT.CD,YR2005,Data include the effects of a Tsunami-related Paris Club debt restructuring agreement.
+ARG,DT.DOD.DECT.CD,YR2005,Data include the effects of Bond restructuring in June 2005.
+COG,DT.DOD.DECT.CD,YR2007,Data include the effects of Enhanced HIPC Initiative and London Club debt restructuring agreement.
+COG,DT.DOD.DECT.CD,YR2008,Data include the effects of Enhanced HIPC Initiative and Paris Club debt restructuring agreement.
+GIN,DT.DOD.DECT.CD,YR2008,Data include the effects of Enhanced HIPC Initiative and Paris Club debt restructuring agreement.
+CAF,DT.DOD.DECT.CD,YR2007,"Data include the effects of Enhanced HIPC Initiative, and Paris Club debt restructuring agreement."
+CAF,DT.DOD.DECT.CD,YR2008,Data include the effects of Enhanced HIPC Initiative.  
+CAF,DT.DFR.DPPG.CD,YR2007,Data include the effects of Enhanced HIPC Initiative.  
+CAF,DT.DFR.DPPG.CD,YR2008,Data include the effects of Enhanced HIPC Initiative.  
+COG,DT.DOD.DECT.CD,YR2009,Data include the effects of Enhanced HIPC Initiative.  
+COG,DT.DFR.DPPG.CD,YR2007,Data include the effects of Enhanced HIPC Initiative.  
+COG,DT.DFR.DPPG.CD,YR2008,Data include the effects of Enhanced HIPC Initiative.  
+COG,DT.DFR.DPPG.CD,YR2009,Data include the effects of Enhanced HIPC Initiative.  
+COM,DT.DOD.DECT.CD,YR2010,Data include the effects of Enhanced HIPC Initiative.  
+AFG,DT.DFR.DPPG.CD,YR2007,Data include the effects of Enhanced HIPC Initiative.  
+AFG,DT.DFR.DPPG.CD,YR2008,Data include the effects of Enhanced HIPC Initiative.  
+AFG,DT.DFR.DPPG.CD,YR2009,Data include the effects of Enhanced HIPC Initiative.  
+AFG,DT.DOD.DECT.CD,YR2007,Data include the effects of Enhanced HIPC Initiative.  
+AFG,DT.DOD.DECT.CD,YR2008,Data include the effects of Enhanced HIPC Initiative.  
+AFG,DT.DOD.DECT.CD,YR2009,Data include the effects of Enhanced HIPC Initiative.  
+BDI,DT.DOD.DECT.CD,YR2007,Data include the effects of Enhanced HIPC Initiative.  
+BDI,DT.DOD.DECT.CD,YR2008,Data include the effects of Enhanced HIPC Initiative.  
+BDI,DT.DFR.DPPG.CD,YR2007,Data include the effects of Enhanced HIPC Initiative.  
+BDI,DT.DFR.DPPG.CD,YR2008,Data include the effects of Enhanced HIPC Initiative.  
+HTI,DT.DFR.DPPG.CD,YR2007,Data include the effects of Enhanced HIPC Initiative.  
+HTI,DT.DFR.DPPG.CD,YR2008,Data include the effects of Enhanced HIPC Initiative.  
+HTI,DT.DOD.DECT.CD,YR2007,Data include the effects of Enhanced HIPC Initiative.  
+HTI,DT.DOD.DECT.CD,YR2008,Data include the effects of Enhanced HIPC Initiative.  
+GIN,DT.DFR.DPPG.CD,YR2007,Data include the effects of Enhanced HIPC Initiative.  
+GIN,DT.DFR.DPPG.CD,YR2008,Data include the effects of Enhanced HIPC Initiative.  
+GIN,DT.DOD.DECT.CD,YR2007,Data include the effects of Enhanced HIPC Initiative.  
+GNB,DT.DFR.DPPG.CD,YR2007,Data include the effects of Enhanced HIPC Initiative.  
+GNB,DT.DFR.DPPG.CD,YR2008,Data include the effects of Enhanced HIPC Initiative.  
+GNB,DT.DFR.DPPG.CD,YR2009,Data include the effects of Enhanced HIPC Initiative.  
+GNB,DT.DOD.DECT.CD,YR2007,Data include the effects of Enhanced HIPC Initiative.  
+GNB,DT.DOD.DECT.CD,YR2008,Data include the effects of Enhanced HIPC Initiative.  
+GNB,DT.DOD.DECT.CD,YR2009,Data include the effects of Enhanced HIPC Initiative.  
+GNB,DT.DOD.DECT.CD,YR2010,Data include the effects of Enhanced HIPC Initiative.  
+MWI,DT.DFR.DPPG.CD,YR2007,Data include the effects of Enhanced HIPC Initiative.  
+MWI,DT.DFR.DPPG.CD,YR2008,Data include the effects of Enhanced HIPC Initiative.  
+MWI,DT.DFR.DPPG.CD,YR2009,Data include the effects of Enhanced HIPC Initiative.  
+MWI,DT.DOD.DECT.CD,YR2007,Data include the effects of Enhanced HIPC Initiative.  
+MWI,DT.DOD.DECT.CD,YR2008,Data include the effects of Enhanced HIPC Initiative.  
+MWI,DT.DOD.DECT.CD,YR2009,Data include the effects of Enhanced HIPC Initiative.  
+MWI,DT.DOD.DECT.CD,YR2010,Data include the effects of Enhanced HIPC Initiative.  
+STP,DT.DOD.DECT.CD,YR2009,Data include the effects of Enhanced HIPC Initiative.  
+STP,DT.DOD.DECT.CD,YR2010,Data include the effects of Enhanced HIPC Initiative.  
+TCD,DT.DFR.DPPG.CD,YR2007,Data include the effects of Enhanced HIPC Initiative.  
+TCD,DT.DOD.DECT.CD,YR2007,Data include the effects of Enhanced HIPC Initiative.  
+STP,DT.DFR.DPPG.CD,YR2009,Data include the effects of Enhanced HIPC Initiative.  
+ZAR,DT.DFR.DPPG.CD,YR2007,Data include the effects of Enhanced HIPC Initiative.  
+ZAR,DT.DFR.DPPG.CD,YR2008,Data include the effects of Enhanced HIPC Initiative.  
+ZAR,DT.DFR.DPPG.CD,YR2009,Data include the effects of Enhanced HIPC Initiative.  
+ZAR,DT.DOD.DECT.CD,YR2007,Data include the effects of Enhanced HIPC Initiative.  
+ZAR,DT.DOD.DECT.CD,YR2008,Data include the effects of Enhanced HIPC Initiative.  
+ZAR,DT.DOD.DECT.CD,YR2009,Data include the effects of Enhanced HIPC Initiative.  
+ARG,DT.DOD.PBND.CD,YR2005,Data include the effects of June 2005 bond restructuring.
+SLE,DT.DOD.DECT.CD,YR2007,Data include the effects of MDRI and HIPC debt relief and Paris Club debt restructuring agreement.
+BDI,DT.DOD.DECT.CD,YR2009,"Data include the effects of MDRI and HIPC debt relief, and Paris Club debt restructuring agreement."
+HTI,DT.DOD.DECT.CD,YR2009,"Data include the effects of MDRI and HIPC debt relief, and Paris Club debt restructuring agreement."
+CAF,DT.DOD.DECT.CD,YR2009,"Data include the effects of MDRI and HIPC debt relief, and Paris Club debt restructuring agreements."
+CAF,DT.DFR.DPPG.CD,YR2009,Data include the effects of MDRI and HIPC debt relief. 
+COG,DT.DOD.DECT.CD,YR2010,Data include the effects of MDRI and HIPC debt relief. 
+BDI,DT.DOD.DECT.CD,YR2010,Data include the effects of MDRI and HIPC debt relief. 
+BDI,DT.DFR.DPPG.CD,YR2009,Data include the effects of MDRI and HIPC debt relief. 
+AFG,DT.DOD.DECT.CD,YR2010,Data include the effects of MDRI and HIPC debt relief. 
+HTI,DT.DFR.DPPG.CD,YR2009,Data include the effects of MDRI and HIPC debt relief. 
+GMB,DT.DFR.DPPG.CD,YR2008,Data include the effects of MDRI and HIPC debt relief. 
+GMB,DT.DOD.DECT.CD,YR2008,Data include the effects of MDRI and HIPC debt relief. 
+SLE,DT.DFR.DPPG.CD,YR2007,Data include the effects of MDRI and HIPC debt relief. 
+STP,DT.DOD.DECT.CD,YR2007,Data include the effects of MDRI and HIPC debt relief. 
+STP,DT.DOD.DECT.CD,YR2008,Data include the effects of MDRI and HIPC debt relief. 
+STP,DT.DFR.DPPG.CD,YR2007,Data include the effects of MDRI and HIPC debt relief. 
+STP,DT.DFR.DPPG.CD,YR2008,Data include the effects of MDRI and HIPC debt relief. 
+ZAR,DT.DOD.DECT.CD,YR2010,Data include the effects of MDRI and HIPC debt relief. 
+MWI,DT.DOD.DECT.CD,YR2006,Data include the effects of MDRI and Paris Club debt restructuring agreement.
+CMR,DT.DOD.DECT.CD,YR2006,Data include the effects of MDRI and the Paris Club debt restructuring agreements.
+CMR,DT.DFR.DPPG.CD,YR2006,Data include the effects of MDRI.  
+BOL,DT.DFR.DPPG.CD,YR2006,Data include the effects of MDRI.  
+BOL,DT.DFR.DPPG.CD,YR2007,Data include the effects of MDRI.  
+BOL,DT.DOD.DECT.CD,YR2006,Data include the effects of MDRI.  
+BOL,DT.DOD.DECT.CD,YR2007,Data include the effects of MDRI.  
+GHA,DT.DFR.DPPG.CD,YR2006,Data include the effects of MDRI.  
+ETH,DT.DFR.DPPG.CD,YR2006,Data include the effects of MDRI.  
+ETH,DT.DOD.DECT.CD,YR2006,Data include the effects of MDRI.  
+BEN,DT.DFR.DPPG.CD,YR2006,Data include the effects of MDRI.  
+BEN,DT.DOD.DECT.CD,YR2006,Data include the effects of MDRI.  
+BFA,DT.DFR.DPPG.CD,YR2006,Data include the effects of MDRI.  
+BFA,DT.DOD.DECT.CD,YR2006,Data include the effects of MDRI.  
+GUY,DT.DFR.DPPG.CD,YR2006,Data include the effects of MDRI.  
+GUY,DT.DOD.DECT.CD,YR2006,Data include the effects of MDRI.  
+HND,DT.DFR.DPPG.CD,YR2007,Data include the effects of MDRI.  
+HND,DT.DOD.DECT.CD,YR2007,Data include the effects of MDRI.  
+HTI,DT.DOD.DECT.CD,YR2010,Data include the effects of MDRI.  
+GHA,DT.DOD.DECT.CD,YR2006,Data include the effects of MDRI.  
+KHM,DT.DFR.DPPG.CD,YR2006,Data include the effects of MDRI.  
+KHM,DT.DOD.DECT.CD,YR2006,Data include the effects of MDRI.  
+LBR,DT.DOD.DECT.CD,YR2010,Data include the effects of MDRI.  
+MDG,DT.DFR.DPPG.CD,YR2006,Data include the effects of MDRI.  
+MDG,DT.DOD.DECT.CD,YR2006,Data include the effects of MDRI.  
+MLI,DT.DFR.DPPG.CD,YR2006,Data include the effects of MDRI.  
+MLI,DT.DOD.DECT.CD,YR2006,Data include the effects of MDRI.  
+MOZ,DT.DFR.DPPG.CD,YR2006,Data include the effects of MDRI.  
+MOZ,DT.DOD.DECT.CD,YR2006,Data include the effects of MDRI.  
+MRT,DT.DFR.DPPG.CD,YR2006,Data include the effects of MDRI.  
+MRT,DT.DOD.DECT.CD,YR2006,Data include the effects of MDRI.  
+NER,DT.DFR.DPPG.CD,YR2006,Data include the effects of MDRI.  
+NER,DT.DOD.DECT.CD,YR2006,Data include the effects of MDRI.  
+SEN,DT.DFR.DPPG.CD,YR2006,Data include the effects of MDRI.  
+SEN,DT.DFR.DPPG.CD,YR2007,Data include the effects of MDRI.  
+SEN,DT.DOD.DECT.CD,YR2006,Data include the effects of MDRI.  
+SEN,DT.DOD.DECT.CD,YR2007,Data include the effects of MDRI.  
+MWI,DT.DFR.DPPG.CD,YR2006,Data include the effects of MDRI.  
+NIC,DT.DFR.DPPG.CD,YR2006,Data include the effects of MDRI.  
+NIC,DT.DOD.DECT.CD,YR2006,Data include the effects of MDRI.  
+RWA,DT.DFR.DPPG.CD,YR2006,Data include the effects of MDRI.  
+RWA,DT.DOD.DECT.CD,YR2006,Data include the effects of MDRI.  
+TJK,DT.DFR.DPPG.CD,YR2006,Data include the effects of MDRI.  
+TJK,DT.DOD.DECT.CD,YR2006,Data include the effects of MDRI.  
+TZA,DT.DFR.DPPG.CD,YR2006,Data include the effects of MDRI.  
+TZA,DT.DOD.DECT.CD,YR2006,Data include the effects of MDRI.  
+ZMB,DT.DFR.DPPG.CD,YR2006,Data include the effects of MDRI.  
+ZMB,DT.DOD.DECT.CD,YR2006,Data include the effects of MDRI.  
+UGA,DT.DFR.DPPG.CD,YR2006,Data include the effects of MDRI.  
+UGA,DT.DOD.DECT.CD,YR2006,Data include the effects of MDRI.  
+GAB,DT.DOD.DECT.CD,YR2007,Data include the effects of Paris Club debt buyback agreement.
+DJI,DT.DOD.DECT.CD,YR2008,Data include the effects of Paris Club debt restructuring agreement.
+DOM,DT.DOD.DECT.CD,YR2005,Data include the effects of Paris Club debt restructuring agreement.
+GRD,DT.DOD.DECT.CD,YR2006,Data include the effects of Paris Club debt restructuring agreement.
+HTI,DT.DOD.DECT.CD,YR2006,Data include the effects of Paris Club debt restructuring agreement.
+TGO,DT.DOD.DECT.CD,YR2008,Data include the effects of Paris Club debt restructuring agreement.
+TGO,DT.DOD.DECT.CD,YR2009,Data include the effects of Paris Club debt restructuring agreement.
+SYC,DT.DOD.DECT.CD,YR2009,Data include the effects of Paris Club debt restructuring agreement.
+NGA,DT.DOD.DECT.CD,YR2005,Data include the effects of Paris Club debt restructuring agreement.
+CIV,DT.DOD.DECT.CD,YR2009,Data include the effects of Paris Club debt restructuring agreements.
+LBR,DT.DOD.DECT.CD,YR2008,Data include the effects of Paris Club rescheduling agreement.
+AFG,DT.DOD.DECT.CD,YR2006,Data include the effects of the 2006 Paris Club rescheduling.
+MKD,DT.DOD.DECT.CD,YR1993,Debt outstanding as of end-1993 reflects only loans used directly by Macedonian beneficiaries.
+MLI,BM.GSR.TOTL.CD,YR2012,Gap-filled with countries' balance of payments statistics.
+MLI,BN.CAB.XOKA.CD,YR2011,Gap-filled with countries' balance of payments statistics.
+MLI,BX.GSR.TOTL.CD,YR2012,Gap-filled with countries' balance of payments statistics.
+KEN,BN.CAB.XOKA.CD,YR2013,Gap-filled with countries' balance of payments statistics.
+KEN,BX.GSR.TOTL.CD,YR2013,Gap-filled with countries' balance of payments statistics.
+MDG,BM.GSR.TOTL.CD,YR2006,Gap-filled with countries' balance of payments statistics.
+MDG,BM.GSR.TOTL.CD,YR2007,Gap-filled with countries' balance of payments statistics.
+MDG,BM.GSR.TOTL.CD,YR2008,Gap-filled with countries' balance of payments statistics.
+MDG,BM.GSR.TOTL.CD,YR2009,Gap-filled with countries' balance of payments statistics.
+MDG,BM.GSR.TOTL.CD,YR2010,Gap-filled with countries' balance of payments statistics.
+MDG,BM.GSR.TOTL.CD,YR2011,Gap-filled with countries' balance of payments statistics.
+MDG,BN.CAB.XOKA.CD,YR2006,Gap-filled with countries' balance of payments statistics.
+MDG,BN.CAB.XOKA.CD,YR2007,Gap-filled with countries' balance of payments statistics.
+MDG,BN.CAB.XOKA.CD,YR2008,Gap-filled with countries' balance of payments statistics.
+MDG,BN.CAB.XOKA.CD,YR2009,Gap-filled with countries' balance of payments statistics.
+MDG,BN.CAB.XOKA.CD,YR2010,Gap-filled with countries' balance of payments statistics.
+MDG,BN.CAB.XOKA.CD,YR2011,Gap-filled with countries' balance of payments statistics.
+MDG,BX.GSR.TOTL.CD,YR2006,Gap-filled with countries' balance of payments statistics.
+MDG,BX.GSR.TOTL.CD,YR2007,Gap-filled with countries' balance of payments statistics.
+MDG,BX.GSR.TOTL.CD,YR2008,Gap-filled with countries' balance of payments statistics.
+MDG,BX.GSR.TOTL.CD,YR2009,Gap-filled with countries' balance of payments statistics.
+MDG,BX.GSR.TOTL.CD,YR2010,Gap-filled with countries' balance of payments statistics.
+MDG,BX.GSR.TOTL.CD,YR2011,Gap-filled with countries' balance of payments statistics.
+IDN,BN.CAB.XOKA.CD,YR2013,Gap-filled with countries' balance of payments statistics.
+IDN,BX.GSR.TOTL.CD,YR2013,Gap-filled with countries' balance of payments statistics.
+IDN,BX.PEF.TOTL.CD.DT,YR2013,Gap-filled with countries' balance of payments statistics.
+IDN,BX.TRF.PWKR.CD.DT,YR2013,Gap-filled with countries' balance of payments statistics.
+GNB,BN.CAB.XOKA.CD,YR2011,Gap-filled with countries' balance of payments statistics.
+GNB,BN.CAB.XOKA.CD,YR2012,Gap-filled with countries' balance of payments statistics.
+GNB,BX.GSR.TOTL.CD,YR2011,Gap-filled with countries' balance of payments statistics.
+GNB,BX.GSR.TOTL.CD,YR2012,Gap-filled with countries' balance of payments statistics.
+LBR,BN.CAB.XOKA.CD,YR2012,Gap-filled with countries' balance of payments statistics.
+BEN,BN.CAB.XOKA.CD,YR2012,Gap-filled with countries' balance of payments statistics.
+BFA,BX.PEF.TOTL.CD.DT,YR2011,Gap-filled with countries' balance of payments statistics.
+BFA,BX.PEF.TOTL.CD.DT,YR2012,Gap-filled with countries' balance of payments statistics.
+BOL,BN.CAB.XOKA.CD,YR2013,Gap-filled with countries' balance of payments statistics.
+CAF,BN.CAB.XOKA.CD,YR2005,Gap-filled with countries' balance of payments statistics.
+CAF,BN.CAB.XOKA.CD,YR2006,Gap-filled with countries' balance of payments statistics.
+CAF,BN.CAB.XOKA.CD,YR2007,Gap-filled with countries' balance of payments statistics.
+CAF,BN.CAB.XOKA.CD,YR2008,Gap-filled with countries' balance of payments statistics.
+CAF,BN.CAB.XOKA.CD,YR2009,Gap-filled with countries' balance of payments statistics.
+BFA,BM.GSR.TOTL.CD,YR2011,Gap-filled with countries' balance of payments statistics.
+BFA,BM.GSR.TOTL.CD,YR2012,Gap-filled with countries' balance of payments statistics.
+BFA,BN.CAB.XOKA.CD,YR2011,Gap-filled with countries' balance of payments statistics.
+BFA,BN.CAB.XOKA.CD,YR2012,Gap-filled with countries' balance of payments statistics.
+BFA,BX.GSR.TOTL.CD,YR2011,Gap-filled with countries' balance of payments statistics.
+BFA,BX.GSR.TOTL.CD,YR2012,Gap-filled with countries' balance of payments statistics.
+CIV,BM.GSR.TOTL.CD,YR2011,Gap-filled with countries' balance of payments statistics.
+CIV,BN.CAB.XOKA.CD,YR2011,Gap-filled with countries' balance of payments statistics.
+CIV,BX.GSR.TOTL.CD,YR2011,Gap-filled with countries' balance of payments statistics.
+COM,BM.GSR.TOTL.CD,YR2005,Gap-filled with countries' balance of payments statistics.
+COM,BM.GSR.TOTL.CD,YR2006,Gap-filled with countries' balance of payments statistics.
+COM,BM.GSR.TOTL.CD,YR2007,Gap-filled with countries' balance of payments statistics.
+COM,BM.GSR.TOTL.CD,YR2008,Gap-filled with countries' balance of payments statistics.
+COM,BM.GSR.TOTL.CD,YR2009,Gap-filled with countries' balance of payments statistics.
+COM,BM.GSR.TOTL.CD,YR2010,Gap-filled with countries' balance of payments statistics.
+COM,BM.GSR.TOTL.CD,YR2011,Gap-filled with countries' balance of payments statistics.
+COM,BM.GSR.TOTL.CD,YR2012,Gap-filled with countries' balance of payments statistics.
+COM,BN.CAB.XOKA.CD,YR2005,Gap-filled with countries' balance of payments statistics.
+COM,BN.CAB.XOKA.CD,YR2006,Gap-filled with countries' balance of payments statistics.
+COM,BN.CAB.XOKA.CD,YR2007,Gap-filled with countries' balance of payments statistics.
+COM,BN.CAB.XOKA.CD,YR2008,Gap-filled with countries' balance of payments statistics.
+COM,BN.CAB.XOKA.CD,YR2009,Gap-filled with countries' balance of payments statistics.
+COM,BN.CAB.XOKA.CD,YR2010,Gap-filled with countries' balance of payments statistics.
+COM,BN.CAB.XOKA.CD,YR2011,Gap-filled with countries' balance of payments statistics.
+COM,BN.CAB.XOKA.CD,YR2012,Gap-filled with countries' balance of payments statistics.
+COM,BX.GSR.TOTL.CD,YR2005,Gap-filled with countries' balance of payments statistics.
+COM,BX.GSR.TOTL.CD,YR2006,Gap-filled with countries' balance of payments statistics.
+COM,BX.GSR.TOTL.CD,YR2007,Gap-filled with countries' balance of payments statistics.
+COM,BX.GSR.TOTL.CD,YR2008,Gap-filled with countries' balance of payments statistics.
+COM,BX.GSR.TOTL.CD,YR2009,Gap-filled with countries' balance of payments statistics.
+COM,BX.GSR.TOTL.CD,YR2010,Gap-filled with countries' balance of payments statistics.
+COM,BX.GSR.TOTL.CD,YR2011,Gap-filled with countries' balance of payments statistics.
+COM,BX.GSR.TOTL.CD,YR2012,Gap-filled with countries' balance of payments statistics.
+DZA,BM.GSR.TOTL.CD,YR2013,Gap-filled with countries' balance of payments statistics.
+DZA,BN.CAB.XOKA.CD,YR2013,Gap-filled with countries' balance of payments statistics.
+DZA,BX.GSR.TOTL.CD,YR2013,Gap-filled with countries' balance of payments statistics.
+FJI,BN.CAB.XOKA.CD,YR2013,Gap-filled with countries' balance of payments statistics.
+FJI,BX.GSR.TOTL.CD,YR2013,Gap-filled with countries' balance of payments statistics.
+GAB,BN.CAB.XOKA.CD,YR2006,Gap-filled with countries' balance of payments statistics.
+GAB,BN.CAB.XOKA.CD,YR2007,Gap-filled with countries' balance of payments statistics.
+GAB,BN.CAB.XOKA.CD,YR2008,Gap-filled with countries' balance of payments statistics.
+GAB,BN.CAB.XOKA.CD,YR2009,Gap-filled with countries' balance of payments statistics.
+GHA,BN.CAB.XOKA.CD,YR2013,Gap-filled with countries' balance of payments statistics.
+GHA,BX.GSR.TOTL.CD,YR2013,Gap-filled with countries' balance of payments statistics.
+NER,BM.GSR.TOTL.CD,YR2011,Gap-filled with countries' balance of payments statistics.
+NER,BN.CAB.XOKA.CD,YR2011,Gap-filled with countries' balance of payments statistics.
+NER,BX.GSR.TOTL.CD,YR2011,Gap-filled with countries' balance of payments statistics.
+NGA,BM.GSR.TOTL.CD,YR2013,Gap-filled with countries' balance of payments statistics.
+NGA,BN.CAB.XOKA.CD,YR2013,Gap-filled with countries' balance of payments statistics.
+NGA,BX.GSR.TOTL.CD,YR2013,Gap-filled with countries' balance of payments statistics.
+PER,BM.GSR.TOTL.CD,YR2013,Gap-filled with countries' balance of payments statistics.
+PER,BN.CAB.XOKA.CD,YR2013,Gap-filled with countries' balance of payments statistics.
+PER,BX.GSR.TOTL.CD,YR2013,Gap-filled with countries' balance of payments statistics.
+MRT,BM.GSR.TOTL.CD,YR2006,Gap-filled with countries' balance of payments statistics.
+MRT,BM.GSR.TOTL.CD,YR2007,Gap-filled with countries' balance of payments statistics.
+MRT,BM.GSR.TOTL.CD,YR2008,Gap-filled with countries' balance of payments statistics.
+MRT,BM.GSR.TOTL.CD,YR2009,Gap-filled with countries' balance of payments statistics.
+MRT,BM.GSR.TOTL.CD,YR2010,Gap-filled with countries' balance of payments statistics.
+MRT,BM.GSR.TOTL.CD,YR2011,Gap-filled with countries' balance of payments statistics.
+MRT,BM.GSR.TOTL.CD,YR2012,Gap-filled with countries' balance of payments statistics.
+MRT,BN.CAB.XOKA.CD,YR2007,Gap-filled with countries' balance of payments statistics.
+MRT,BN.CAB.XOKA.CD,YR2008,Gap-filled with countries' balance of payments statistics.
+MRT,BN.CAB.XOKA.CD,YR2009,Gap-filled with countries' balance of payments statistics.
+MRT,BN.CAB.XOKA.CD,YR2010,Gap-filled with countries' balance of payments statistics.
+MRT,BN.CAB.XOKA.CD,YR2011,Gap-filled with countries' balance of payments statistics.
+MRT,BN.CAB.XOKA.CD,YR2012,Gap-filled with countries' balance of payments statistics.
+MRT,BN.CAB.XOKA.CD,YR2013,Gap-filled with countries' balance of payments statistics.
+MRT,BX.GSR.TOTL.CD,YR2006,Gap-filled with countries' balance of payments statistics.
+MRT,BX.GSR.TOTL.CD,YR2007,Gap-filled with countries' balance of payments statistics.
+MRT,BX.GSR.TOTL.CD,YR2008,Gap-filled with countries' balance of payments statistics.
+MRT,BX.GSR.TOTL.CD,YR2009,Gap-filled with countries' balance of payments statistics.
+MRT,BX.GSR.TOTL.CD,YR2010,Gap-filled with countries' balance of payments statistics.
+MRT,BX.GSR.TOTL.CD,YR2011,Gap-filled with countries' balance of payments statistics.
+MRT,BX.GSR.TOTL.CD,YR2012,Gap-filled with countries' balance of payments statistics.
+NGA,BX.PEF.TOTL.CD.DT,YR2013,Gap-filled with countries' balance of payments statistics.
+PER,BX.TRF.PWKR.CD.DT,YR2013,Gap-filled with countries' balance of payments statistics.
+SEN,BM.GSR.TOTL.CD,YR2012,Gap-filled with countries' balance of payments statistics.
+SEN,BN.CAB.XOKA.CD,YR2012,Gap-filled with countries' balance of payments statistics.
+SEN,BX.GSR.TOTL.CD,YR2012,Gap-filled with countries' balance of payments statistics.
+STP,BM.GSR.TOTL.CD,YR2013,Gap-filled with countries' balance of payments statistics.
+STP,BN.CAB.XOKA.CD,YR2013,Gap-filled with countries' balance of payments statistics.
+STP,BX.GSR.TOTL.CD,YR2013,Gap-filled with countries' balance of payments statistics.
+SRB,BM.GSR.TOTL.CD,YR2013,Gap-filled with countries' balance of payments statistics.
+SRB,BN.CAB.XOKA.CD,YR2013,Gap-filled with countries' balance of payments statistics.
+SYC,BM.GSR.TOTL.CD,YR2013,Gap-filled with countries' balance of payments statistics.
+SYC,BN.CAB.XOKA.CD,YR2013,Gap-filled with countries' balance of payments statistics.
+SWZ,BM.GSR.TOTL.CD,YR2013,Gap-filled with countries' balance of payments statistics.
+SWZ,BN.CAB.XOKA.CD,YR2013,Gap-filled with countries' balance of payments statistics.
+TJK,BN.CAB.XOKA.CD,YR2013,Gap-filled with countries' balance of payments statistics.
+TCD,BN.CAB.XOKA.CD,YR2005,Gap-filled with countries' balance of payments statistics.
+TCD,BN.CAB.XOKA.CD,YR2006,Gap-filled with countries' balance of payments statistics.
+TCD,BN.CAB.XOKA.CD,YR2007,Gap-filled with countries' balance of payments statistics.
+TCD,BN.CAB.XOKA.CD,YR2008,Gap-filled with countries' balance of payments statistics.
+TCD,BN.CAB.XOKA.CD,YR2009,Gap-filled with countries' balance of payments statistics.
+TZA,BM.GSR.TOTL.CD,YR2013,Gap-filled with countries' balance of payments statistics.
+TZA,BN.CAB.XOKA.CD,YR2013,Gap-filled with countries' balance of payments statistics.
+TGO,BM.GSR.TOTL.CD,YR2011,Gap-filled with countries' balance of payments statistics.
+TGO,BN.CAB.XOKA.CD,YR2011,Gap-filled with countries' balance of payments statistics.
+ZWE,BN.CAB.XOKA.CD,YR2005,Gap-filled with countries' balance of payments statistics.
+ZWE,BN.CAB.XOKA.CD,YR2006,Gap-filled with countries' balance of payments statistics.
+ZWE,BN.CAB.XOKA.CD,YR2007,Gap-filled with countries' balance of payments statistics.
+ZWE,BN.CAB.XOKA.CD,YR2008,Gap-filled with countries' balance of payments statistics.
+SRB,BX.KLT.DINV.CD.DT,YR1992,"Includes Montenegro. Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SRB,BX.KLT.DINV.CD.DT,YR1993,"Includes Montenegro. Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SRB,BX.KLT.DINV.CD.DT,YR1994,"Includes Montenegro. Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SRB,BX.KLT.DINV.CD.DT,YR1995,"Includes Montenegro. Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SRB,BX.KLT.DINV.CD.DT,YR1996,"Includes Montenegro. Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SRB,BX.KLT.DINV.CD.DT,YR1997,"Includes Montenegro. Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SRB,BX.KLT.DINV.CD.DT,YR1998,"Includes Montenegro. Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SRB,BX.KLT.DINV.CD.DT,YR1999,"Includes Montenegro. Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SRB,BX.KLT.DINV.CD.DT,YR2000,"Includes Montenegro. Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SRB,BX.KLT.DINV.CD.DT,YR2001,"Includes Montenegro. Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SRB,BX.KLT.DINV.CD.DT,YR2002,"Includes Montenegro. Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SRB,BX.KLT.DINV.CD.DT,YR2003,"Includes Montenegro. Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SRB,BX.KLT.DINV.CD.DT,YR2004,"Includes Montenegro. Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SRB,BX.KLT.DINV.CD.DT,YR2005,"Includes Montenegro. Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SRB,BX.KLT.DINV.CD.DT,YR2006,"Includes Montenegro. Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LSO,DT.INT.DPPG.CD,YR2007,Large interest payment was made to a creditor country to settle a long standing claim.
+MAR,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MAR,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MAR,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MAR,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MAR,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MAR,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MDA,BX.KLT.DINV.CD.DT,YR1992,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MDA,BX.KLT.DINV.CD.DT,YR1993,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LKA,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LKA,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LKA,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LKA,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LKA,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LKA,BX.KLT.DINV.CD.DT,YR1976,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LSO,BX.KLT.DINV.CD.DT,YR1977,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LSO,BX.KLT.DINV.CD.DT,YR1978,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LSO,BX.KLT.DINV.CD.DT,YR1979,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LSO,BX.KLT.DINV.CD.DT,YR1985,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+KEN,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+KEN,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+KEN,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+KEN,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+KEN,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+KEN,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LAO,BX.KLT.DINV.CD.DT,YR1985,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LAO,BX.KLT.DINV.CD.DT,YR1997,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LAO,BX.KLT.DINV.CD.DT,YR1998,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LAO,BX.KLT.DINV.CD.DT,YR1999,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MDG,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MDG,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MDG,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MDG,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MDG,BX.KLT.DINV.CD.DT,YR1980,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MDG,BX.KLT.DINV.CD.DT,YR1981,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MDG,BX.KLT.DINV.CD.DT,YR1982,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MDG,BX.KLT.DINV.CD.DT,YR1983,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MDG,BX.KLT.DINV.CD.DT,YR1984,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MDG,BX.KLT.DINV.CD.DT,YR1985,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MDG,BX.KLT.DINV.CD.DT,YR1986,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MDG,BX.KLT.DINV.CD.DT,YR1987,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MDG,BX.KLT.DINV.CD.DT,YR1988,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MDG,BX.KLT.DINV.CD.DT,YR2006,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MDG,BX.KLT.DINV.CD.DT,YR2007,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MLI,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MLI,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MLI,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MLI,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MLI,BX.KLT.DINV.CD.DT,YR1979,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MLI,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MEX,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MEX,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MEX,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MEX,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MEX,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MEX,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MEX,BX.KLT.DINV.CD.DT,YR1976,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MEX,BX.KLT.DINV.CD.DT,YR1977,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MEX,BX.KLT.DINV.CD.DT,YR1978,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MDV,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MDV,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MDV,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MDV,BX.KLT.DINV.CD.DT,YR1976,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MDV,BX.KLT.DINV.CD.DT,YR1977,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MDV,BX.KLT.DINV.CD.DT,YR1978,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MDV,BX.KLT.DINV.CD.DT,YR1979,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MDV,BX.KLT.DINV.CD.DT,YR1980,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MDV,BX.KLT.DINV.CD.DT,YR1981,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MDV,BX.KLT.DINV.CD.DT,YR1982,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MDV,BX.KLT.DINV.CD.DT,YR1983,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MDV,BX.KLT.DINV.CD.DT,YR1984,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MDV,BX.KLT.DINV.CD.DT,YR1985,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MMR,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MMR,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MMR,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MMR,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MMR,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MMR,BX.KLT.DINV.CD.DT,YR1977,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MMR,BX.KLT.DINV.CD.DT,YR1980,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MMR,BX.KLT.DINV.CD.DT,YR1983,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MMR,BX.KLT.DINV.CD.DT,YR1984,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MMR,BX.KLT.DINV.CD.DT,YR1986,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MMR,BX.KLT.DINV.CD.DT,YR1987,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MMR,BX.KLT.DINV.CD.DT,YR2007,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MMR,BX.KLT.DINV.CD.DT,YR2008,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MMR,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MNG,BX.KLT.DINV.CD.DT,YR1986,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MNG,BX.KLT.DINV.CD.DT,YR1991,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MNG,BX.KLT.DINV.CD.DT,YR2007,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MNG,BX.KLT.DINV.CD.DT,YR2008,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MOZ,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MOZ,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MOZ,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MOZ,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MOZ,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MOZ,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MOZ,BX.KLT.DINV.CD.DT,YR1976,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MOZ,BX.KLT.DINV.CD.DT,YR1977,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MOZ,BX.KLT.DINV.CD.DT,YR1978,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MOZ,BX.KLT.DINV.CD.DT,YR1979,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MOZ,BX.KLT.DINV.CD.DT,YR1980,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MOZ,BX.KLT.DINV.CD.DT,YR1981,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MOZ,BX.KLT.DINV.CD.DT,YR1982,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MOZ,BX.KLT.DINV.CD.DT,YR1983,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MOZ,BX.KLT.DINV.CD.DT,YR1984,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MOZ,BX.KLT.DINV.CD.DT,YR1985,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LBR,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LBR,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LBR,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LBR,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LBR,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LBR,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LBR,BX.KLT.DINV.CD.DT,YR1976,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LBR,BX.KLT.DINV.CD.DT,YR1977,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LBR,BX.KLT.DINV.CD.DT,YR1978,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LBR,BX.KLT.DINV.CD.DT,YR1979,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LBR,BX.KLT.DINV.CD.DT,YR1980,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LBR,BX.KLT.DINV.CD.DT,YR1981,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LBR,BX.KLT.DINV.CD.DT,YR1988,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LBR,BX.KLT.DINV.CD.DT,YR1989,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LBR,BX.KLT.DINV.CD.DT,YR1990,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LBR,BX.KLT.DINV.CD.DT,YR1991,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LBR,BX.KLT.DINV.CD.DT,YR1992,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LBR,BX.KLT.DINV.CD.DT,YR1993,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LBR,BX.KLT.DINV.CD.DT,YR1994,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LBR,BX.KLT.DINV.CD.DT,YR1995,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LBR,BX.KLT.DINV.CD.DT,YR1996,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LBR,BX.KLT.DINV.CD.DT,YR1997,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LBR,BX.KLT.DINV.CD.DT,YR1998,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LBR,BX.KLT.DINV.CD.DT,YR1999,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LBR,BX.KLT.DINV.CD.DT,YR2000,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LBR,BX.KLT.DINV.CD.DT,YR2001,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LBR,BX.KLT.DINV.CD.DT,YR2002,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LBR,BX.KLT.DINV.CD.DT,YR2003,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+LBR,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IRN,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IRN,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IRN,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IRN,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IRN,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IRN,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IRN,BX.KLT.DINV.CD.DT,YR1976,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IRN,BX.KLT.DINV.CD.DT,YR1977,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IRN,BX.KLT.DINV.CD.DT,YR1978,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IRN,BX.KLT.DINV.CD.DT,YR1979,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IRN,BX.KLT.DINV.CD.DT,YR1980,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IRN,BX.KLT.DINV.CD.DT,YR1981,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IRN,BX.KLT.DINV.CD.DT,YR1982,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IRN,BX.KLT.DINV.CD.DT,YR1983,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IRN,BX.KLT.DINV.CD.DT,YR1984,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IRN,BX.KLT.DINV.CD.DT,YR1985,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IRN,BX.KLT.DINV.CD.DT,YR1986,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IRN,BX.KLT.DINV.CD.DT,YR1987,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IRN,BX.KLT.DINV.CD.DT,YR1988,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IRN,BX.KLT.DINV.CD.DT,YR1989,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IRN,BX.KLT.DINV.CD.DT,YR1990,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IRN,BX.KLT.DINV.CD.DT,YR1991,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IRN,BX.KLT.DINV.CD.DT,YR1992,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IRN,BX.KLT.DINV.CD.DT,YR1993,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IRN,BX.KLT.DINV.CD.DT,YR2001,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IRN,BX.KLT.DINV.CD.DT,YR2002,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IRN,BX.KLT.DINV.CD.DT,YR2003,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IRN,BX.KLT.DINV.CD.DT,YR2004,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IRN,BX.KLT.DINV.CD.DT,YR2005,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IRN,BX.KLT.DINV.CD.DT,YR2006,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IRN,BX.KLT.DINV.CD.DT,YR2007,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IRN,BX.KLT.DINV.CD.DT,YR2008,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IRN,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+KAZ,BX.KLT.DINV.CD.DT,YR1992,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+KAZ,BX.KLT.DINV.CD.DT,YR1993,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+KAZ,BX.KLT.DINV.CD.DT,YR1994,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GNB,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GNB,BX.KLT.DINV.CD.DT,YR1977,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GNB,BX.KLT.DINV.CD.DT,YR1979,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GNB,BX.KLT.DINV.CD.DT,YR1984,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GNB,BX.KLT.DINV.CD.DT,YR1985,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GNB,BX.KLT.DINV.CD.DT,YR1986,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GNB,BX.KLT.DINV.CD.DT,YR1987,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GNB,BX.KLT.DINV.CD.DT,YR1988,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GNB,BX.KLT.DINV.CD.DT,YR1989,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GNB,BX.KLT.DINV.CD.DT,YR1990,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GNB,BX.KLT.DINV.CD.DT,YR1991,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GNB,BX.KLT.DINV.CD.DT,YR1992,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GNB,BX.KLT.DINV.CD.DT,YR1993,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GNB,BX.KLT.DINV.CD.DT,YR1994,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GNB,BX.KLT.DINV.CD.DT,YR1995,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GNB,BX.KLT.DINV.CD.DT,YR1996,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GNB,BX.KLT.DINV.CD.DT,YR1997,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GNB,BX.KLT.DINV.CD.DT,YR1998,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GNB,BX.KLT.DINV.CD.DT,YR1999,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GNB,BX.KLT.DINV.CD.DT,YR2000,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GNB,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GUY,BX.KLT.DINV.CD.DT,YR1978,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GUY,BX.KLT.DINV.CD.DT,YR1986,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GUY,BX.KLT.DINV.CD.DT,YR1987,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GUY,BX.KLT.DINV.CD.DT,YR1988,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GUY,BX.KLT.DINV.CD.DT,YR1989,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GUY,BX.KLT.DINV.CD.DT,YR1990,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GUY,BX.KLT.DINV.CD.DT,YR1991,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GUY,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IND,BX.KLT.DINV.CD.DT,YR1977,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IND,BX.KLT.DINV.CD.DT,YR1978,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IND,BX.KLT.DINV.CD.DT,YR1979,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IND,BX.KLT.DINV.CD.DT,YR1980,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IND,BX.KLT.DINV.CD.DT,YR1981,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IND,BX.KLT.DINV.CD.DT,YR1982,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IND,BX.KLT.DINV.CD.DT,YR1983,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IND,BX.KLT.DINV.CD.DT,YR1984,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IND,BX.KLT.DINV.CD.DT,YR1985,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IND,BX.KLT.DINV.CD.DT,YR1986,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IND,BX.KLT.DINV.CD.DT,YR1987,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IND,BX.KLT.DINV.CD.DT,YR1988,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IND,BX.KLT.DINV.CD.DT,YR1989,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+IND,BX.KLT.DINV.CD.DT,YR1990,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+HTI,BX.KLT.DINV.CD.DT,YR1990,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+HTI,BX.KLT.DINV.CD.DT,YR1994,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GIN,BX.KLT.DINV.CD.DT,YR2004,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GIN,BX.KLT.DINV.CD.DT,YR2005,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GIN,BX.KLT.DINV.CD.DT,YR2006,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GIN,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GMB,BX.KLT.DINV.CD.DT,YR1980,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GMB,BX.KLT.DINV.CD.DT,YR1982,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GMB,BX.KLT.DINV.CD.DT,YR1983,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GMB,BX.KLT.DINV.CD.DT,YR1984,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GMB,BX.KLT.DINV.CD.DT,YR1985,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GMB,BX.KLT.DINV.CD.DT,YR1986,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GMB,BX.KLT.DINV.CD.DT,YR1990,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GAB,BX.KLT.DINV.CD.DT,YR2006,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GAB,BX.KLT.DINV.CD.DT,YR2007,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GAB,BX.KLT.DINV.CD.DT,YR2008,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+GAB,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+FJI,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+DMA,BX.KLT.DINV.CD.DT,YR1977,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+DMA,BX.KLT.DINV.CD.DT,YR1981,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+DZA,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+DZA,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+DZA,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+DZA,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+DZA,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+DZA,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+DZA,BX.KLT.DINV.CD.DT,YR1976,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+DZA,BX.KLT.DINV.CD.DT,YR1992,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+DZA,BX.KLT.DINV.CD.DT,YR1996,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+DZA,BX.KLT.DINV.CD.DT,YR1997,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+DZA,BX.KLT.DINV.CD.DT,YR1998,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+DZA,BX.KLT.DINV.CD.DT,YR1999,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+DZA,BX.KLT.DINV.CD.DT,YR2000,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+DZA,BX.KLT.DINV.CD.DT,YR2001,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+DZA,BX.KLT.DINV.CD.DT,YR2002,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+DZA,BX.KLT.DINV.CD.DT,YR2003,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+DZA,BX.KLT.DINV.CD.DT,YR2004,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+DZA,BX.KLT.DINV.CD.DT,YR2005,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+DZA,BX.KLT.DINV.CD.DT,YR2006,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+DZA,BX.KLT.DINV.CD.DT,YR2007,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+DZA,BX.KLT.DINV.CD.DT,YR2008,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+DZA,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ERI,BX.KLT.DINV.CD.DT,YR2001,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ERI,BX.KLT.DINV.CD.DT,YR2002,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ERI,BX.KLT.DINV.CD.DT,YR2003,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ERI,BX.KLT.DINV.CD.DT,YR2004,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ERI,BX.KLT.DINV.CD.DT,YR2005,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ERI,BX.KLT.DINV.CD.DT,YR2006,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ERI,BX.KLT.DINV.CD.DT,YR2007,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ERI,BX.KLT.DINV.CD.DT,YR2008,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ERI,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ETH,BX.KLT.DINV.CD.DT,YR1992,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ETH,BX.KLT.DINV.CD.DT,YR1993,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ETH,BX.KLT.DINV.CD.DT,YR1994,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ETH,BX.KLT.DINV.CD.DT,YR1995,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ETH,BX.KLT.DINV.CD.DT,YR1996,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ETH,BX.KLT.DINV.CD.DT,YR1997,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ETH,BX.KLT.DINV.CD.DT,YR1998,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ETH,BX.KLT.DINV.CD.DT,YR1999,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ETH,BX.KLT.DINV.CD.DT,YR2000,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ETH,BX.KLT.DINV.CD.DT,YR2001,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ETH,BX.KLT.DINV.CD.DT,YR2002,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ETH,BX.KLT.DINV.CD.DT,YR2003,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ETH,BX.KLT.DINV.CD.DT,YR2004,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ETH,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+COM,BX.KLT.DINV.CD.DT,YR1982,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+COM,BX.KLT.DINV.CD.DT,YR1996,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+COM,BX.KLT.DINV.CD.DT,YR1997,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+COM,BX.KLT.DINV.CD.DT,YR1998,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+COM,BX.KLT.DINV.CD.DT,YR1999,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+COM,BX.KLT.DINV.CD.DT,YR2000,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+COM,BX.KLT.DINV.CD.DT,YR2001,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+COM,BX.KLT.DINV.CD.DT,YR2002,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+COM,BX.KLT.DINV.CD.DT,YR2003,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+COM,BX.KLT.DINV.CD.DT,YR2004,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+COM,BX.KLT.DINV.CD.DT,YR2005,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+COM,BX.KLT.DINV.CD.DT,YR2006,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+COM,BX.KLT.DINV.CD.DT,YR2007,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+COM,BX.KLT.DINV.CD.DT,YR2008,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+COM,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+CPV,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+DJI,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+COG,BX.KLT.DINV.CD.DT,YR1989,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+COG,BX.KLT.DINV.CD.DT,YR1990,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+COG,BX.KLT.DINV.CD.DT,YR1991,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+COG,BX.KLT.DINV.CD.DT,YR1992,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+COG,BX.KLT.DINV.CD.DT,YR1993,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+COG,BX.KLT.DINV.CD.DT,YR1994,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+COG,BX.KLT.DINV.CD.DT,YR2008,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+COG,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BFA,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BFA,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BFA,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BFA,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BFA,BX.KLT.DINV.CD.DT,YR1990,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BFA,BX.KLT.DINV.CD.DT,YR1991,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BFA,BX.KLT.DINV.CD.DT,YR1992,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BFA,BX.KLT.DINV.CD.DT,YR1993,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BFA,BX.KLT.DINV.CD.DT,YR1994,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BFA,BX.KLT.DINV.CD.DT,YR1995,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BFA,BX.KLT.DINV.CD.DT,YR1996,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BFA,BX.KLT.DINV.CD.DT,YR1997,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BFA,BX.KLT.DINV.CD.DT,YR1998,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BFA,BX.KLT.DINV.CD.DT,YR1999,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BFA,BX.KLT.DINV.CD.DT,YR2002,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BFA,BX.KLT.DINV.CD.DT,YR2003,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BFA,BX.KLT.DINV.CD.DT,YR2004,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BFA,BX.KLT.DINV.CD.DT,YR2005,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BFA,BX.KLT.DINV.CD.DT,YR2006,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BFA,BX.KLT.DINV.CD.DT,YR2007,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BFA,BX.KLT.DINV.CD.DT,YR2008,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BFA,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BGD,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BGD,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BGD,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BGD,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BGD,BX.KLT.DINV.CD.DT,YR1976,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BGD,BX.KLT.DINV.CD.DT,YR1977,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BGD,BX.KLT.DINV.CD.DT,YR1978,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BGD,BX.KLT.DINV.CD.DT,YR1979,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BGD,BX.KLT.DINV.CD.DT,YR1980,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BGD,BX.KLT.DINV.CD.DT,YR1981,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BGD,BX.KLT.DINV.CD.DT,YR1982,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BGD,BX.KLT.DINV.CD.DT,YR1985,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BLR,BX.KLT.DINV.CD.DT,YR1992,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BLZ,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BLZ,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BLZ,BX.KLT.DINV.CD.DT,YR1978,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BLZ,BX.KLT.DINV.CD.DT,YR1979,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BLZ,BX.KLT.DINV.CD.DT,YR1981,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+CAF,BX.KLT.DINV.CD.DT,YR1995,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+CAF,BX.KLT.DINV.CD.DT,YR1996,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+CAF,BX.KLT.DINV.CD.DT,YR1997,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+CAF,BX.KLT.DINV.CD.DT,YR1998,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+CAF,BX.KLT.DINV.CD.DT,YR1999,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+CAF,BX.KLT.DINV.CD.DT,YR2000,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+CAF,BX.KLT.DINV.CD.DT,YR2001,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+CAF,BX.KLT.DINV.CD.DT,YR2002,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+CAF,BX.KLT.DINV.CD.DT,YR2003,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+CAF,BX.KLT.DINV.CD.DT,YR2004,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+CAF,BX.KLT.DINV.CD.DT,YR2005,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+CAF,BX.KLT.DINV.CD.DT,YR2006,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+CAF,BX.KLT.DINV.CD.DT,YR2007,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+CAF,BX.KLT.DINV.CD.DT,YR2008,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+CAF,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BOL,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BOL,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BOL,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BOL,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BOL,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BOL,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BTN,BX.KLT.DINV.CD.DT,YR2003,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BTN,BX.KLT.DINV.CD.DT,YR2004,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BTN,BX.KLT.DINV.CD.DT,YR2005,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BTN,BX.KLT.DINV.CD.DT,YR2006,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BTN,BX.KLT.DINV.CD.DT,YR2007,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BTN,BX.KLT.DINV.CD.DT,YR2008,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BTN,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BWA,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BEN,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BEN,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BEN,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BEN,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BEN,BX.KLT.DINV.CD.DT,YR1985,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BEN,BX.KLT.DINV.CD.DT,YR1986,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BEN,BX.KLT.DINV.CD.DT,YR1987,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BEN,BX.KLT.DINV.CD.DT,YR2008,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BEN,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ARM,BX.KLT.DINV.CD.DT,YR1992,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BDI,BX.KLT.DINV.CD.DT,YR1996,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BDI,BX.KLT.DINV.CD.DT,YR1997,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BDI,BX.KLT.DINV.CD.DT,YR1998,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BDI,BX.KLT.DINV.CD.DT,YR2002,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+BDI,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AGO,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AGO,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AGO,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AGO,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AGO,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AGO,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AGO,BX.KLT.DINV.CD.DT,YR1976,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AGO,BX.KLT.DINV.CD.DT,YR1978,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AGO,BX.KLT.DINV.CD.DT,YR1979,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AGO,BX.KLT.DINV.CD.DT,YR1980,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AGO,BX.KLT.DINV.CD.DT,YR1981,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AGO,BX.KLT.DINV.CD.DT,YR1982,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AGO,BX.KLT.DINV.CD.DT,YR1983,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AGO,BX.KLT.DINV.CD.DT,YR1984,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ARG,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ARG,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ARG,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ARG,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ARG,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ARG,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ARG,BX.KLT.DINV.CD.DT,YR1976,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AFG,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AFG,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AFG,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AFG,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AFG,BX.KLT.DINV.CD.DT,YR1976,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AFG,BX.KLT.DINV.CD.DT,YR1977,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AFG,BX.KLT.DINV.CD.DT,YR1979,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AFG,BX.KLT.DINV.CD.DT,YR1980,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AFG,BX.KLT.DINV.CD.DT,YR1981,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AFG,BX.KLT.DINV.CD.DT,YR1982,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AFG,BX.KLT.DINV.CD.DT,YR1987,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AFG,BX.KLT.DINV.CD.DT,YR1991,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AFG,BX.KLT.DINV.CD.DT,YR1992,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AFG,BX.KLT.DINV.CD.DT,YR1993,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AFG,BX.KLT.DINV.CD.DT,YR1994,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AFG,BX.KLT.DINV.CD.DT,YR1995,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AFG,BX.KLT.DINV.CD.DT,YR1996,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AFG,BX.KLT.DINV.CD.DT,YR1997,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AFG,BX.KLT.DINV.CD.DT,YR1998,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AFG,BX.KLT.DINV.CD.DT,YR1999,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AFG,BX.KLT.DINV.CD.DT,YR2000,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AFG,BX.KLT.DINV.CD.DT,YR2001,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AFG,BX.KLT.DINV.CD.DT,YR2002,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AFG,BX.KLT.DINV.CD.DT,YR2003,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AFG,BX.KLT.DINV.CD.DT,YR2004,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AFG,BX.KLT.DINV.CD.DT,YR2005,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AFG,BX.KLT.DINV.CD.DT,YR2006,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AFG,BX.KLT.DINV.CD.DT,YR2007,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AFG,BX.KLT.DINV.CD.DT,YR2008,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+AFG,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+STP,BX.KLT.DINV.CD.DT,YR1987,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+STP,BX.KLT.DINV.CD.DT,YR1988,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+STP,BX.KLT.DINV.CD.DT,YR1989,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+STP,BX.KLT.DINV.CD.DT,YR1993,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+STP,BX.KLT.DINV.CD.DT,YR1995,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+STP,BX.KLT.DINV.CD.DT,YR1996,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SLB,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SLB,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SLB,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SLB,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SLE,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SLE,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SLE,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SLE,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SLE,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SLE,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SLE,BX.KLT.DINV.CD.DT,YR1976,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SLV,BX.KLT.DINV.CD.DT,YR1994,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SLV,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SOM,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SOM,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SOM,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SOM,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SOM,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SOM,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SOM,BX.KLT.DINV.CD.DT,YR1976,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SOM,BX.KLT.DINV.CD.DT,YR1979,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SOM,BX.KLT.DINV.CD.DT,YR1980,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SOM,BX.KLT.DINV.CD.DT,YR1981,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SOM,BX.KLT.DINV.CD.DT,YR1986,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SOM,BX.KLT.DINV.CD.DT,YR1987,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SOM,BX.KLT.DINV.CD.DT,YR1988,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SOM,BX.KLT.DINV.CD.DT,YR1989,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SOM,BX.KLT.DINV.CD.DT,YR1990,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SOM,BX.KLT.DINV.CD.DT,YR1991,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SOM,BX.KLT.DINV.CD.DT,YR1992,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SOM,BX.KLT.DINV.CD.DT,YR1993,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SOM,BX.KLT.DINV.CD.DT,YR1994,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SOM,BX.KLT.DINV.CD.DT,YR1995,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SOM,BX.KLT.DINV.CD.DT,YR1996,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SOM,BX.KLT.DINV.CD.DT,YR1997,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SOM,BX.KLT.DINV.CD.DT,YR1998,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SOM,BX.KLT.DINV.CD.DT,YR1999,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SOM,BX.KLT.DINV.CD.DT,YR2000,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SOM,BX.KLT.DINV.CD.DT,YR2001,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SOM,BX.KLT.DINV.CD.DT,YR2002,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SOM,BX.KLT.DINV.CD.DT,YR2003,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SOM,BX.KLT.DINV.CD.DT,YR2004,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SOM,BX.KLT.DINV.CD.DT,YR2005,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SOM,BX.KLT.DINV.CD.DT,YR2006,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SOM,BX.KLT.DINV.CD.DT,YR2007,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SOM,BX.KLT.DINV.CD.DT,YR2008,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SOM,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SEN,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SEN,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SEN,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SEN,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SEN,BX.KLT.DINV.CD.DT,YR2008,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SEN,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SDN,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SDN,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SDN,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SDN,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SDN,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SDN,BX.KLT.DINV.CD.DT,YR1976,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SDN,BX.KLT.DINV.CD.DT,YR1977,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SDN,BX.KLT.DINV.CD.DT,YR1978,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SDN,BX.KLT.DINV.CD.DT,YR1979,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SDN,BX.KLT.DINV.CD.DT,YR1980,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SDN,BX.KLT.DINV.CD.DT,YR1981,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SDN,BX.KLT.DINV.CD.DT,YR1982,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SDN,BX.KLT.DINV.CD.DT,YR1983,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SDN,BX.KLT.DINV.CD.DT,YR1986,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SDN,BX.KLT.DINV.CD.DT,YR1987,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SDN,BX.KLT.DINV.CD.DT,YR1988,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SDN,BX.KLT.DINV.CD.DT,YR1990,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SDN,BX.KLT.DINV.CD.DT,YR1991,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SDN,BX.KLT.DINV.CD.DT,YR1992,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SDN,BX.KLT.DINV.CD.DT,YR1993,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SDN,BX.KLT.DINV.CD.DT,YR1994,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SDN,BX.KLT.DINV.CD.DT,YR1995,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+PHL,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+PHL,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+PHL,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+PHL,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+PHL,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+PHL,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+PHL,BX.KLT.DINV.CD.DT,YR1976,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+PNG,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+PNG,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+PNG,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+PNG,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+PNG,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+PNG,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+PRY,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+PRY,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+PRY,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+PRY,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+PRY,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ROM,BX.KLT.DINV.CD.DT,YR1990,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+RWA,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+RWA,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+RWA,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+RWA,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+RWA,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+RWA,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+RWA,BX.KLT.DINV.CD.DT,YR1994,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MRT,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MRT,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MRT,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MRT,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MRT,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MRT,BX.KLT.DINV.CD.DT,YR1996,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MRT,BX.KLT.DINV.CD.DT,YR1997,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MRT,BX.KLT.DINV.CD.DT,YR1999,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MRT,BX.KLT.DINV.CD.DT,YR2000,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MRT,BX.KLT.DINV.CD.DT,YR2001,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MRT,BX.KLT.DINV.CD.DT,YR2002,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MRT,BX.KLT.DINV.CD.DT,YR2003,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MRT,BX.KLT.DINV.CD.DT,YR2004,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MRT,BX.KLT.DINV.CD.DT,YR2005,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MRT,BX.KLT.DINV.CD.DT,YR2006,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MRT,BX.KLT.DINV.CD.DT,YR2007,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MRT,BX.KLT.DINV.CD.DT,YR2008,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MRT,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MKD,BX.KLT.DINV.CD.DT,YR1994,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MKD,BX.KLT.DINV.CD.DT,YR1995,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MUS,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MUS,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MUS,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MUS,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MUS,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MUS,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MWI,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MWI,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MWI,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MWI,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MWI,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MWI,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MWI,BX.KLT.DINV.CD.DT,YR1976,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MWI,BX.KLT.DINV.CD.DT,YR1982,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MWI,BX.KLT.DINV.CD.DT,YR1984,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MWI,BX.KLT.DINV.CD.DT,YR1986,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MWI,BX.KLT.DINV.CD.DT,YR1988,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MWI,BX.KLT.DINV.CD.DT,YR1989,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MWI,BX.KLT.DINV.CD.DT,YR1990,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MWI,BX.KLT.DINV.CD.DT,YR1991,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MWI,BX.KLT.DINV.CD.DT,YR1992,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MWI,BX.KLT.DINV.CD.DT,YR1993,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MWI,BX.KLT.DINV.CD.DT,YR2003,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MWI,BX.KLT.DINV.CD.DT,YR2004,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MWI,BX.KLT.DINV.CD.DT,YR2005,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MWI,BX.KLT.DINV.CD.DT,YR2006,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MWI,BX.KLT.DINV.CD.DT,YR2007,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MWI,BX.KLT.DINV.CD.DT,YR2008,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MWI,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+PER,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+PER,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+PER,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+PER,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+PER,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+PER,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+PER,BX.KLT.DINV.CD.DT,YR1976,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NGA,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NGA,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NGA,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NGA,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NGA,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NGA,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NGA,BX.KLT.DINV.CD.DT,YR1976,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NPL,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NPL,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NPL,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NPL,BX.KLT.DINV.CD.DT,YR1976,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NPL,BX.KLT.DINV.CD.DT,YR1977,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NPL,BX.KLT.DINV.CD.DT,YR1978,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NPL,BX.KLT.DINV.CD.DT,YR1979,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NPL,BX.KLT.DINV.CD.DT,YR1980,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NPL,BX.KLT.DINV.CD.DT,YR1981,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NPL,BX.KLT.DINV.CD.DT,YR1982,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NPL,BX.KLT.DINV.CD.DT,YR1983,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NPL,BX.KLT.DINV.CD.DT,YR1984,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NPL,BX.KLT.DINV.CD.DT,YR1985,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NPL,BX.KLT.DINV.CD.DT,YR1986,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NPL,BX.KLT.DINV.CD.DT,YR1987,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NPL,BX.KLT.DINV.CD.DT,YR1988,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NPL,BX.KLT.DINV.CD.DT,YR1989,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NPL,BX.KLT.DINV.CD.DT,YR1990,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NPL,BX.KLT.DINV.CD.DT,YR1991,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NPL,BX.KLT.DINV.CD.DT,YR1999,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NPL,BX.KLT.DINV.CD.DT,YR2000,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NPL,BX.KLT.DINV.CD.DT,YR2001,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+PAK,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+PAK,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+PAK,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+PAK,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+PAK,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+PAK,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+PAK,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NER,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NER,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NER,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NER,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NER,BX.KLT.DINV.CD.DT,YR2008,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NER,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MYS,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MYS,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MYS,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MYS,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NIC,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NIC,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NIC,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NIC,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NIC,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NIC,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NIC,BX.KLT.DINV.CD.DT,YR1976,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NIC,BX.KLT.DINV.CD.DT,YR1980,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NIC,BX.KLT.DINV.CD.DT,YR1981,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NIC,BX.KLT.DINV.CD.DT,YR1982,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NIC,BX.KLT.DINV.CD.DT,YR1984,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NIC,BX.KLT.DINV.CD.DT,YR1985,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NIC,BX.KLT.DINV.CD.DT,YR1986,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NIC,BX.KLT.DINV.CD.DT,YR1987,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NIC,BX.KLT.DINV.CD.DT,YR1988,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NIC,BX.KLT.DINV.CD.DT,YR1989,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NIC,BX.KLT.DINV.CD.DT,YR1990,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+NIC,BX.KLT.DINV.CD.DT,YR1991,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TGO,BX.KLT.DINV.CD.DT,YR1992,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TGO,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZMB,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZMB,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZMB,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZMB,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZMB,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZMB,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZMB,BX.KLT.DINV.CD.DT,YR1976,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZMB,BX.KLT.DINV.CD.DT,YR1977,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZMB,BX.KLT.DINV.CD.DT,YR1992,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZMB,BX.KLT.DINV.CD.DT,YR1993,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZMB,BX.KLT.DINV.CD.DT,YR1994,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZMB,BX.KLT.DINV.CD.DT,YR1995,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZMB,BX.KLT.DINV.CD.DT,YR1996,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UGA,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UGA,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UGA,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UGA,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UGA,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UGA,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UGA,BX.KLT.DINV.CD.DT,YR1976,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UGA,BX.KLT.DINV.CD.DT,YR1977,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UGA,BX.KLT.DINV.CD.DT,YR1978,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UGA,BX.KLT.DINV.CD.DT,YR1979,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UGA,BX.KLT.DINV.CD.DT,YR1980,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UGA,BX.KLT.DINV.CD.DT,YR1982,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UGA,BX.KLT.DINV.CD.DT,YR1985,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UGA,BX.KLT.DINV.CD.DT,YR1988,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UGA,BX.KLT.DINV.CD.DT,YR1989,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UGA,BX.KLT.DINV.CD.DT,YR1990,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR1976,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR1977,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR1978,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR1979,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR1980,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR1981,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR1982,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR1983,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR1984,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR1985,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR1986,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR1987,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR1988,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR1989,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR1990,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR1991,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR1992,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR1993,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR1994,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR1995,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR1996,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR1997,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR1998,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR1999,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR2000,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR2001,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR2002,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR2003,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR2008,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+WSM,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+YEM,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAF,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAF,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAF,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAF,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAF,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAF,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAF,BX.KLT.DINV.CD.DT,YR1976,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAF,BX.KLT.DINV.CD.DT,YR1977,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAF,BX.KLT.DINV.CD.DT,YR1978,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAF,BX.KLT.DINV.CD.DT,YR1979,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAF,BX.KLT.DINV.CD.DT,YR1980,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAF,BX.KLT.DINV.CD.DT,YR1981,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAF,BX.KLT.DINV.CD.DT,YR1982,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAF,BX.KLT.DINV.CD.DT,YR1983,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAF,BX.KLT.DINV.CD.DT,YR1984,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR1976,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR1977,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR1978,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR1979,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR1980,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR1981,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR1982,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR1983,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR1984,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR1985,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR1986,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR1987,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR1988,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR1989,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR1990,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR1991,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR1992,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR1993,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR1994,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR1995,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR1996,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR1997,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR1998,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR1999,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR2000,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR2001,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR2002,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR2003,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR2004,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR2006,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR2007,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR2008,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZAR,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TZA,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TZA,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TZA,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TZA,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TZA,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TZA,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TZA,BX.KLT.DINV.CD.DT,YR1976,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TZA,BX.KLT.DINV.CD.DT,YR1977,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TZA,BX.KLT.DINV.CD.DT,YR1978,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TZA,BX.KLT.DINV.CD.DT,YR1979,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TZA,BX.KLT.DINV.CD.DT,YR1980,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TZA,BX.KLT.DINV.CD.DT,YR1981,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TZA,BX.KLT.DINV.CD.DT,YR1982,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TZA,BX.KLT.DINV.CD.DT,YR1983,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TZA,BX.KLT.DINV.CD.DT,YR1984,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TZA,BX.KLT.DINV.CD.DT,YR1985,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TZA,BX.KLT.DINV.CD.DT,YR1986,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TZA,BX.KLT.DINV.CD.DT,YR1987,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TZA,BX.KLT.DINV.CD.DT,YR1988,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TZA,BX.KLT.DINV.CD.DT,YR1989,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TZA,BX.KLT.DINV.CD.DT,YR1990,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TZA,BX.KLT.DINV.CD.DT,YR1991,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TZA,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TKM,BX.KLT.DINV.CD.DT,YR1993,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TKM,BX.KLT.DINV.CD.DT,YR1994,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TKM,BX.KLT.DINV.CD.DT,YR1995,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TKM,BX.KLT.DINV.CD.DT,YR1998,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TKM,BX.KLT.DINV.CD.DT,YR1999,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TKM,BX.KLT.DINV.CD.DT,YR2000,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TKM,BX.KLT.DINV.CD.DT,YR2001,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TKM,BX.KLT.DINV.CD.DT,YR2002,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TKM,BX.KLT.DINV.CD.DT,YR2003,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TKM,BX.KLT.DINV.CD.DT,YR2004,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TKM,BX.KLT.DINV.CD.DT,YR2005,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TKM,BX.KLT.DINV.CD.DT,YR2006,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TKM,BX.KLT.DINV.CD.DT,YR2007,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TKM,BX.KLT.DINV.CD.DT,YR2008,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TKM,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TON,BX.KLT.DINV.CD.DT,YR1977,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TON,BX.KLT.DINV.CD.DT,YR1978,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TON,BX.KLT.DINV.CD.DT,YR1994,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TON,BX.KLT.DINV.CD.DT,YR1995,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TON,BX.KLT.DINV.CD.DT,YR1996,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TON,BX.KLT.DINV.CD.DT,YR1997,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TON,BX.KLT.DINV.CD.DT,YR1998,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TON,BX.KLT.DINV.CD.DT,YR1999,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TON,BX.KLT.DINV.CD.DT,YR2000,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TON,BX.KLT.DINV.CD.DT,YR2001,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TON,BX.KLT.DINV.CD.DT,YR2002,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TON,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UKR,BX.KLT.DINV.CD.DT,YR1992,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UKR,BX.KLT.DINV.CD.DT,YR1993,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UZB,BX.KLT.DINV.CD.DT,YR1992,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UZB,BX.KLT.DINV.CD.DT,YR1993,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UZB,BX.KLT.DINV.CD.DT,YR1994,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UZB,BX.KLT.DINV.CD.DT,YR1995,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UZB,BX.KLT.DINV.CD.DT,YR1996,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UZB,BX.KLT.DINV.CD.DT,YR1997,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UZB,BX.KLT.DINV.CD.DT,YR1998,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UZB,BX.KLT.DINV.CD.DT,YR1999,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UZB,BX.KLT.DINV.CD.DT,YR2000,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UZB,BX.KLT.DINV.CD.DT,YR2001,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UZB,BX.KLT.DINV.CD.DT,YR2002,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UZB,BX.KLT.DINV.CD.DT,YR2003,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UZB,BX.KLT.DINV.CD.DT,YR2004,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UZB,BX.KLT.DINV.CD.DT,YR2005,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UZB,BX.KLT.DINV.CD.DT,YR2006,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UZB,BX.KLT.DINV.CD.DT,YR2007,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UZB,BX.KLT.DINV.CD.DT,YR2008,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+UZB,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VNM,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VNM,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VNM,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VNM,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VNM,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VNM,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VNM,BX.KLT.DINV.CD.DT,YR1976,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VNM,BX.KLT.DINV.CD.DT,YR1977,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VNM,BX.KLT.DINV.CD.DT,YR1978,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VNM,BX.KLT.DINV.CD.DT,YR1979,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VNM,BX.KLT.DINV.CD.DT,YR1980,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VNM,BX.KLT.DINV.CD.DT,YR1981,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VNM,BX.KLT.DINV.CD.DT,YR1982,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VNM,BX.KLT.DINV.CD.DT,YR1983,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VNM,BX.KLT.DINV.CD.DT,YR1984,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VNM,BX.KLT.DINV.CD.DT,YR1985,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VNM,BX.KLT.DINV.CD.DT,YR1986,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VNM,BX.KLT.DINV.CD.DT,YR1987,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VNM,BX.KLT.DINV.CD.DT,YR1988,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VNM,BX.KLT.DINV.CD.DT,YR1989,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VNM,BX.KLT.DINV.CD.DT,YR1990,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VNM,BX.KLT.DINV.CD.DT,YR1991,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VNM,BX.KLT.DINV.CD.DT,YR1992,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VNM,BX.KLT.DINV.CD.DT,YR1993,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VNM,BX.KLT.DINV.CD.DT,YR1994,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VNM,BX.KLT.DINV.CD.DT,YR1995,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VUT,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VUT,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VUT,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VUT,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VUT,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VUT,BX.KLT.DINV.CD.DT,YR1976,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VUT,BX.KLT.DINV.CD.DT,YR1977,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VUT,BX.KLT.DINV.CD.DT,YR1978,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VUT,BX.KLT.DINV.CD.DT,YR1979,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VUT,BX.KLT.DINV.CD.DT,YR1980,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+VUT,BX.KLT.DINV.CD.DT,YR1981,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TCD,BX.KLT.DINV.CD.DT,YR1979,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TCD,BX.KLT.DINV.CD.DT,YR1980,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TCD,BX.KLT.DINV.CD.DT,YR1981,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TCD,BX.KLT.DINV.CD.DT,YR1982,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TCD,BX.KLT.DINV.CD.DT,YR1983,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TCD,BX.KLT.DINV.CD.DT,YR1990,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TCD,BX.KLT.DINV.CD.DT,YR1995,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TCD,BX.KLT.DINV.CD.DT,YR1996,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TCD,BX.KLT.DINV.CD.DT,YR1997,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TCD,BX.KLT.DINV.CD.DT,YR1998,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TCD,BX.KLT.DINV.CD.DT,YR1999,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TCD,BX.KLT.DINV.CD.DT,YR2000,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TCD,BX.KLT.DINV.CD.DT,YR2001,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TCD,BX.KLT.DINV.CD.DT,YR2002,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TCD,BX.KLT.DINV.CD.DT,YR2003,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TCD,BX.KLT.DINV.CD.DT,YR2004,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TCD,BX.KLT.DINV.CD.DT,YR2005,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TCD,BX.KLT.DINV.CD.DT,YR2006,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TCD,BX.KLT.DINV.CD.DT,YR2007,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TCD,BX.KLT.DINV.CD.DT,YR2008,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TCD,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TJK,BX.KLT.DINV.CD.DT,YR1992,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TJK,BX.KLT.DINV.CD.DT,YR1993,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TJK,BX.KLT.DINV.CD.DT,YR1994,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TJK,BX.KLT.DINV.CD.DT,YR1995,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TJK,BX.KLT.DINV.CD.DT,YR1996,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TJK,BX.KLT.DINV.CD.DT,YR1997,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TJK,BX.KLT.DINV.CD.DT,YR1998,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TJK,BX.KLT.DINV.CD.DT,YR1999,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TJK,BX.KLT.DINV.CD.DT,YR2000,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+TJK,BX.KLT.DINV.CD.DT,YR2001,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SWZ,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SWZ,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SYC,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SYC,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SYC,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SYC,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SYC,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SYC,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SYR,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SYR,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SYR,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SYR,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SYR,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SYR,BX.KLT.DINV.CD.DT,YR1976,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SYR,BX.KLT.DINV.CD.DT,YR1977,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SYR,BX.KLT.DINV.CD.DT,YR1979,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SYR,BX.KLT.DINV.CD.DT,YR1980,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SYR,BX.KLT.DINV.CD.DT,YR1981,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SYR,BX.KLT.DINV.CD.DT,YR1982,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SYR,BX.KLT.DINV.CD.DT,YR1983,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SYR,BX.KLT.DINV.CD.DT,YR1984,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SYR,BX.KLT.DINV.CD.DT,YR1985,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SYR,BX.KLT.DINV.CD.DT,YR1986,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SYR,BX.KLT.DINV.CD.DT,YR1987,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SYR,BX.KLT.DINV.CD.DT,YR1988,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SYR,BX.KLT.DINV.CD.DT,YR1989,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SYR,BX.KLT.DINV.CD.DT,YR1990,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SYR,BX.KLT.DINV.CD.DT,YR1991,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SYR,BX.KLT.DINV.CD.DT,YR1992,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+SYR,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZWE,BX.KLT.DINV.CD.DT,YR1970,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZWE,BX.KLT.DINV.CD.DT,YR1971,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZWE,BX.KLT.DINV.CD.DT,YR1972,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZWE,BX.KLT.DINV.CD.DT,YR1973,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZWE,BX.KLT.DINV.CD.DT,YR1974,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZWE,BX.KLT.DINV.CD.DT,YR1975,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZWE,BX.KLT.DINV.CD.DT,YR1976,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZWE,BX.KLT.DINV.CD.DT,YR1995,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZWE,BX.KLT.DINV.CD.DT,YR1996,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZWE,BX.KLT.DINV.CD.DT,YR1997,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZWE,BX.KLT.DINV.CD.DT,YR1998,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZWE,BX.KLT.DINV.CD.DT,YR1999,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZWE,BX.KLT.DINV.CD.DT,YR2000,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZWE,BX.KLT.DINV.CD.DT,YR2001,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZWE,BX.KLT.DINV.CD.DT,YR2002,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZWE,BX.KLT.DINV.CD.DT,YR2003,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZWE,BX.KLT.DINV.CD.DT,YR2004,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZWE,BX.KLT.DINV.CD.DT,YR2005,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZWE,BX.KLT.DINV.CD.DT,YR2006,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZWE,BX.KLT.DINV.CD.DT,YR2007,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZWE,BX.KLT.DINV.CD.DT,YR2008,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+ZWE,BX.KLT.DINV.CD.DT,YR2009,"Source: United Nations Conference on Trade and Development, Foreign Direct Investment Online database."
+MEX,DT.DOD.DPPG.CD,YR1995,The increase in 1995 in long-term debt includes the stock transfer of the “Tesobonos.”

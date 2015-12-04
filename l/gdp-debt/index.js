@@ -8,6 +8,16 @@ $("#slider").slider({
 		redraw(ui.value.toString());
 	}
 });
+var countrydebt;
+var isDebt = false;
+d3.json("./data.json", function(d) {
+  countrydebt = d;
+});
+var statedebt;
+d3.json("./state_data.json", function(d) {
+  statedebt = d;
+});
+
 $("#year").val($("#slider").slider("value") );
 windowWidth = $(window).width();
 
@@ -25,7 +35,7 @@ var stateMap = {
   MEA: "中東&北非",
   SSF: "撒哈拉以南非洲",
   SAS: "南亞",
-  EAS: "東亞及太平洋"
+  EAS: "亞太地區"
 };
 
 var color = "#1f77b4 ";
@@ -35,8 +45,6 @@ var tip = d3.tip().attr('class', 'd3-tip').html(function(d) { return d["properti
 var geolist = new Firebase('https://torrid-inferno-9548.firebaseio.com/');
 var stategdp = new Firebase('https://team7project2.firebaseio.com/');
 var countrygdp = new Firebase('https://stategdp.firebaseio.com/');
-var statedebt = new Firebase('https://worlddebt.firebaseio.com/');
-var countrydebt = new Firebase('https://statedebt.firebaseio.com/');
 
 var state_data = stategdp;
 var country_data = countrygdp;
@@ -84,6 +92,7 @@ geolist.on("value",function(snapshot){
 GDP();
 
 function GDP(){
+  isDebt = false;
 	document.getElementById("gdp").disabled = true;
 	document.getElementById("debt").disabled = false;
 
@@ -137,16 +146,16 @@ state_data.on("value",function(gdp){
 }
 
 function DEBT(){
+  isDebt = true
 	document.getElementById("debt").disabled = true;
 	document.getElementById("gdp").disabled = false;
 
-	state_data = statedebt;
-	country_data = countrydebt;
 	scalefactor=1./20000. ;
 
-statedebt.on("value",function(debt){
+  var data = statedebt;
+
 	circles.selectAll("circle")
-		.data(debt.val())
+		.data(data)
 	.enter()
 	.append("circle")
 		.attr("class",function(d) { return d["Country Code"]})
@@ -164,7 +173,7 @@ statedebt.on("value",function(debt){
 		});
 	labels.selectAll("text").remove();
 	labels.selectAll("labels")
-      .data(debt.val())
+      .data(data)
     .enter()
     .append("text")
         .attr("x", function(d, i) { return xy([+d["longitude"],+d["latitude"]])[0]; })
@@ -173,7 +182,7 @@ statedebt.on("value",function(debt){
         .attr("text-anchor", "middle")
 		.append("tspan")
 			.text(function(d) { 
-			  return stateMap[d["Country Code"]];
+			    return stateMap[d["Country Code"]];
 			})
 			.attr("x", function(d, i) { return xy([+d["longitude"],+d["latitude"]])[0]; })		
 			.attr("dy", "1em")
@@ -185,9 +194,8 @@ statedebt.on("value",function(debt){
 			.attr("x", function(d, i) { return xy([+d["longitude"],+d["latitude"]])[0]; })
 			.attr("dy", "1em")
 	svgbar.selectAll("g").remove();
-	bardraw(debt.val(), $("#slider").slider("value"));
+	bardraw(data, $("#slider").slider("value"));
 	redraw($("#slider").slider("value"));
-})
 }
 
 
@@ -210,12 +218,13 @@ function clicked(d){
 
 
 	} else {
+
 		x = q;
 		y = z;
 		k = 1;
 		centered = null;
+
 		$('text').remove();
-		
 		d3.selectAll("circle").style("visibility","visible")
 		d3.select("circle."+d["Country Code"])
 			.style("fill","steelblue")
@@ -225,8 +234,11 @@ function clicked(d){
 			.on("mouseout", function(d){
 				d3.select("circle."+d["Country Code"]).style("fill","steelblue");})
 		state_data.on("value",function(gdp){
+    var data = gdp.val();
+    if (isDebt)
+      data = statedebt;
 			labels.selectAll("labels")
-				.data(gdp.val())
+				.data(data)
 			.enter()
 			.append("text")
 					.attr("x", function(d, i) { return xy([+d["longitude"],+d["latitude"]])[0]; })
@@ -245,7 +257,8 @@ function clicked(d){
 			      return Math.round(d[$("#slider").slider("value")]/1000000000)/1000 +  "兆美金"; 
           })
 					.attr("x", function(d, i) { return xy([+d["longitude"],+d["latitude"]])[0]; })
-					.attr("dy", "1em")
+					.attr("dy", "1.5em")
+			    .style("font-size", "10");
 		});
 	}
 	states.classed("active", centered)
@@ -308,14 +321,20 @@ function redrawbar(d,year){
 	var datasetbar = [];
 	var range = d["Country Code"];
 		if (d&&centered===d.longitude) {
+		
 		country_data.on("value",function(sectiongdp){
+		  var data = sectiongdp.val();
+		  if (isDebt) {
+		    data = countrydebt;
+      }
+
 			svgbar.transition()
 				.attr("width", w)
 				.attr("height", function(d){return 500;})
 			svgbar.selectAll("g").remove();
-			var bar =svgbar.attr("width", w).attr("height", sectiongdp.val()[range].length*27)
+			var bar =svgbar.attr("width", w).attr("height", data[range].length*27)
 				.selectAll("g")
-					.data(sectiongdp.val()[range])
+					.data(data[range])
 				.enter().append("g")
 					.attr("transform",function(d, i) { 
 						dataset.push(Math.round(d[year]/1000000));
@@ -344,7 +363,7 @@ function redrawbar(d,year){
 				  return d["Country Name"] + " " + (Math.round(d[year]/10000000000)) + '百億美金';
 				})
 
-			sortbar(sectiongdp.val()[range],bar,dataset);
+			sortbar(data[range],bar,dataset);
 		});
 		
 	}
@@ -354,7 +373,6 @@ function redrawbar(d,year){
 			bardraw(gdp.val(), $("#slider").slider("value"));
 		});
 	}
-	
 }
 function sortbar(d,bar,dataset){
 	var index = d3.range(d.length);
