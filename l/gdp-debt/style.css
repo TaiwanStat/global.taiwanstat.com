@@ -9,7 +9,7 @@
 }
 #year-label {
   position: absolute;
-  right: 12%;
+  left: 950px;
   top: 700px;
   z-index: 99;
   font-size: 70px;
