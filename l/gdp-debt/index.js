@@ -32,10 +32,15 @@ windowWidth = $(window).width();
 var w = 720;
 var h = 500;
 var s = 120;
-
+var factor = 60000.0;
+var size = 10;
+var Msize = 12;
 if (windowWidth < 600) {
   w = windowWidth;
-  s = 90;
+  s = 70;
+  factor = 100000.0;
+  size = 8;
+  Msize = 10;
 }
 
 var stateMap = {
@@ -56,7 +61,7 @@ var stategdp = new Firebase('https://team7project2.firebaseio.com/');
 
 var state_data = stategdp;
 var scaleX  = d3.scale.linear().range([0, 320]);
-var scalefactor=1./60000. ;
+var scalefactor = 1./factor;
 
 var xy = d3.geo.equirectangular()
 	.scale(s)
@@ -79,6 +84,8 @@ var circles = svg.append("g")
 var labels = svg.append("g")
 	.attr("id", "labels");
 var centered;
+
+
 d3.json('./geolist.json', function(data) {
 	states.selectAll("path")
 		.data(data.features)
@@ -95,6 +102,7 @@ d3.json('./geolist.json', function(data) {
 	states.selectAll("path")
 		.attr("class",function(d) { return d["properties"]["name"]});
   });
+
 GDP();
 
 function GDP(){
@@ -102,59 +110,59 @@ function GDP(){
 	$('#debt').removeClass("blue");
 	$('#gdp').addClass("blue");
 	state_data = stategdp;
-	scalefactor=1./60000.;
+	scalefactor=1./factor;
 
-state_data.on("value",function(gdp){
-	circles.selectAll("circle")
-		.data(gdp.val())
-	.enter()
-	.append("circle")
-		.attr("class",function(d) { return d["Country Code"]})
-		.attr("cx", function(d, i) { return xy([+d.longitude,+d.latitude])[0]; })
-		.attr("cy", function(d, i) { return xy([+d.longitude,+d.latitude])[1]; })
-		.attr("r",  function(d) { return (Math.sqrt(d[$("#slider").slider("value")]))*scalefactor; })				
-			.on("mouseover",function(d){
-        		d3.select(this).style("fill","#4864B3");})
-			.on("mouseout", function(d){
-				d3.select(this).style("fill","steelblue");})
-		.on("click", function(d){
-			clicked(d);
-			redrawbar(d, $("#slider").slider("value"));
-		});
-	labels.selectAll("text").remove();
-	labels.selectAll("labels")
+  state_data.on("value",function(gdp){
+    circles.selectAll("circle")
       .data(gdp.val())
     .enter()
-    .append("text")
-        .attr("x", function(d, i) { return xy([+d["longitude"],+d["latitude"]])[0]; })
-        .attr("y", function(d, i) { return xy([+d["longitude"],+d["latitude"]])[1]-15; })
+    .append("circle")
+      .attr("class",function(d) { return d["Country Code"]})
+      .attr("cx", function(d, i) { return xy([+d.longitude,+d.latitude])[0]; })
+      .attr("cy", function(d, i) { return xy([+d.longitude,+d.latitude])[1]; })
+      .attr("r",  function(d) { return (Math.sqrt(d[$("#slider").slider("value")]))*scalefactor; })				
+        .on("mouseover",function(d){
+              d3.select(this).style("fill","#4864B3");})
+        .on("mouseout", function(d){
+          d3.select(this).style("fill","steelblue");})
+      .on("click", function(d){
+        clicked(d);
+        redrawbar(d, $("#slider").slider("value"));
+      });
+    labels.selectAll("text").remove();
+    labels.selectAll("labels")
+        .data(gdp.val())
+      .enter()
+      .append("text")
+          .attr("x", function(d, i) { return xy([+d["longitude"],+d["latitude"]])[0]; })
+          .attr("y", function(d, i) { return xy([+d["longitude"],+d["latitude"]])[1]-15; })
+          .attr("dy", "1em")
+          .attr("text-anchor", "middle")
+      .append("tspan")
+        .text(function(d) { 
+          return stateMap[d["Country Code"]]; 
+        })
+        .attr("x", function(d, i) { return xy([+d["longitude"],+d["latitude"]])[0]; })		
         .attr("dy", "1em")
-        .attr("text-anchor", "middle")
-		.append("tspan")
-			.text(function(d) { 
-			  return stateMap[d["Country Code"]]; 
-			})
-			.attr("x", function(d, i) { return xy([+d["longitude"],+d["latitude"]])[0]; })		
-			.attr("dy", "1em")
-	labels.selectAll("text")
-		.append("tspan")
-      .text(function(d) { 
-			  return Math.round(d[$("#slider").slider("value")]/1000000000)/1000 +  "兆美金"; 
-      })
-			.attr("x", function(d, i) { return xy([+d["longitude"],+d["latitude"]])[0]; })
-			.attr("dy", "1em")
-	svgbar.selectAll("g").remove();
-	bardraw(gdp.val(), $("#slider").slider("value"));
-	redraw($("#slider").slider("value"));
-})
+    labels.selectAll("text")
+      .append("tspan")
+        .text(function(d) { 
+          return Math.round(d[$("#slider").slider("value")]/1000000000)/1000 +  "兆美金"; 
+        })
+        .attr("x", function(d, i) { return xy([+d["longitude"],+d["latitude"]])[0]; })
+        .attr("dy", "1em")
+    svgbar.selectAll("g").remove();
+    bardraw(gdp.val(), $("#slider").slider("value"));
+    redraw($("#slider").slider("value"));
+  });
 }
 
 function DEBT(){
-  isDebt = true
+  isDebt = true;
 	$('#debt').addClass("blue");
 	$('#gdp').removeClass("blue");
 
-	scalefactor=1./20000. ;
+	scalefactor= 1.0 / (factor / 3);
 
   var data = statedebt;
 
@@ -255,6 +263,8 @@ function clicked(d){
 						})
 						.attr("x", function(d, i) { return xy([+d["longitude"],+d["latitude"]])[0]; })		
 						.attr("dy", "1em")
+			      .style("font-size", Msize);
+
 			labels.selectAll("text")
 				.append("tspan")
           .text(function(d) { 
@@ -262,7 +272,7 @@ function clicked(d){
           })
 					.attr("x", function(d, i) { return xy([+d["longitude"],+d["latitude"]])[0]; })
 					.attr("dy", "1.5em")
-			    .style("font-size", "10");
+			    .style("font-size", size);
 		});
 	}
 	states.classed("active", centered)
@@ -406,13 +416,15 @@ function redraw(year) {
 			})
 			.attr("x", function(d, i) { return xy([+d["longitude"],+d["latitude"]])[0]; })		
 			.attr("dy", "1em")
+			.style("font-size", Msize);
+
 	labels.selectAll("text")
 		.append("tspan")
 			.text(function(d) { 
 			  return Math.round(d[year]/1000000000)/1000 +  "兆美金"; 
 			})
 			.attr("x", function(d, i) { return xy([+d["longitude"],+d["latitude"]])[0]; })
-			.style("font-size", "10")
+			.style("font-size", size)
 			.attr("dy", "1.5em")
 
 	svgbar.selectAll("rect")
