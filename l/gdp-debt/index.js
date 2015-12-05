@@ -21,6 +21,11 @@ d3.json("./state_data.json", function(d) {
   statedebt = d;
 });
 
+var countrygdp;
+d3.json("./countrygdp.json", function(d) {
+  countrygdp = d;
+});
+	
 $("#year").val($("#slider").slider("value") );
 windowWidth = $(window).width();
 
@@ -47,12 +52,9 @@ var color = "#1f77b4 ";
 
 //var bar;
 var tip = d3.tip().attr('class', 'd3-tip').html(function(d) { return d["properties"]["name"] });
-var geolist = new Firebase('https://torrid-inferno-9548.firebaseio.com/');
 var stategdp = new Firebase('https://team7project2.firebaseio.com/');
-var countrygdp = new Firebase('https://stategdp.firebaseio.com/');
 
 var state_data = stategdp;
-var country_data = countrygdp;
 var scaleX  = d3.scale.linear().range([0, 320]);
 var scalefactor=1./60000. ;
 
@@ -77,8 +79,7 @@ var circles = svg.append("g")
 var labels = svg.append("g")
 	.attr("id", "labels");
 var centered;
-geolist.on("value",function(snapshot){
-	var data = snapshot.val();
+d3.json('./geolist.json', function(data) {
 	states.selectAll("path")
 		.data(data.features)
 	.enter().append("path")
@@ -90,10 +91,10 @@ geolist.on("value",function(snapshot){
 		.on("mouseout",function(d) {
 				tip.hide(d);
 				d3.select(this).style("fill","#F1EEE8");
-		})
+		});
 	states.selectAll("path")
-		.attr("class",function(d) { return d["properties"]["name"]})
-})
+		.attr("class",function(d) { return d["properties"]["name"]});
+  });
 GDP();
 
 function GDP(){
@@ -101,8 +102,7 @@ function GDP(){
 	$('#debt').removeClass("blue");
 	$('#gdp').addClass("blue");
 	state_data = stategdp;
-	country_data = countrygdp;
-	scalefactor=1./60000. ;
+	scalefactor=1./60000.;
 
 state_data.on("value",function(gdp){
 	circles.selectAll("circle")
@@ -110,8 +110,8 @@ state_data.on("value",function(gdp){
 	.enter()
 	.append("circle")
 		.attr("class",function(d) { return d["Country Code"]})
-		.attr("cx", function(d, i) { return xy([+d.longitude,+d.latitude])[0] + Math.random() * 2; })
-		.attr("cy", function(d, i) { return xy([+d.longitude,+d.latitude])[1] + Math.random() * 2; })
+		.attr("cx", function(d, i) { return xy([+d.longitude,+d.latitude])[0]; })
+		.attr("cy", function(d, i) { return xy([+d.longitude,+d.latitude])[1]; })
 		.attr("r",  function(d) { return (Math.sqrt(d[$("#slider").slider("value")]))*scalefactor; })				
 			.on("mouseover",function(d){
         		d3.select(this).style("fill","#4864B3");})
@@ -212,7 +212,7 @@ function clicked(d){
 		y = xy([+d.longitude,+d.latitude])[1];
 		k = 2;
 		centered = d.longitude;
-		d3.selectAll("circle").style("visibility","hidden")
+		d3.selectAll("circle").style("visibility","hidden");
 		d3.select("circle."+d["Country Code"])
 			.style("visibility","visible")
 			.on("mouseover",function(d){
@@ -321,56 +321,57 @@ function bardraw(d, year){
     sortbar(d,bar,dataset);
 }
 function redrawbar(d,year){
+
 	var dataset = [];
 	var datasetbar = [];
 	var range = d["Country Code"];
-		if (d&&centered===d.longitude) {
-		
-		country_data.on("value",function(sectiongdp){
-		  var data = sectiongdp.val();
-		  if (isDebt) {
-		    data = countrydebt;
-      }
 
-			svgbar.transition()
-				.attr("width", w)
-				.attr("height", function(d){return 320;})
-			svgbar.selectAll("g").remove();
-			var bar =svgbar.attr("width", w).attr("height", 320)
-				.selectAll("g")
-					.data(data[range])
-				.enter().append("g")
-					.attr("transform",function(d, i) { 
-						dataset.push(Math.round(d[year]/1000000));
-						datasetbar.push(Math.round(d["2013"]/1000000));
-						return "translate(0," + i *barHeight + ")"; })
-			scaleX.domain([0,d3.max(datasetbar)]);				
-			bar.append("rect")
-				.style("fill", color)
-					.attr("width", function(d) { return scaleX(d[year]/1000000);})
-					.attr("height", barHeight - 1)
-					.on("mouseover",function(d){
-						states.selectAll("path."+d["Country Name"])
-        		  .style("fill","#4864B3");
-					})
-					.on("mouseout",function(d){
-						states.selectAll("path."+d["Country Name"])
-							.style("fill","#F1EEE8");
-					})
+	if (d&&centered===d.longitude) {
+	  console.log(d);
+    var data;
+    if (isDebt) {
+      data = countrydebt;
+    }
+    else {
+      data = countrygdp;
+    }
 
-			bar.append("text")				
-				//.attr("x",function(d) { return scaleX(d[year]/1000000)+10;})
-				.attr("x", 10)
-				.attr("y", barHeight / 2)
-				.attr("dy", ".35em")
-				.text(function(d) {
-				  return d["Country Name"] + " " + (Math.round(d[year]/1000000000)) + '億美金';
-				})
+    svgbar.transition()
+      .attr("width", w)
+      .attr("height", function(d){return 320;})
+    svgbar.selectAll("g").remove();
+    var bar =svgbar.attr("width", w).attr("height", 320)
+      .selectAll("g")
+        .data(data[range])
+      .enter().append("g")
+        .attr("transform",function(d, i) { 
+          dataset.push(Math.round(d[year]/1000000));
+          datasetbar.push(Math.round(d["2013"]/1000000));
+          return "translate(0," + i *barHeight + ")"; })
+    scaleX.domain([0,d3.max(datasetbar)]);				
+    bar.append("rect")
+      .style("fill", color)
+        .attr("width", function(d) { return scaleX(d[year]/1000000);})
+        .attr("height", barHeight - 1)
+        .on("mouseover",function(d){
+          states.selectAll("path."+d["Country Name"])
+            .style("fill","#4864B3");
+        })
+        .on("mouseout",function(d){
+          states.selectAll("path."+d["Country Name"])
+            .style("fill","#F1EEE8");
+        })
 
-			sortbar(data[range],bar,dataset);
-		});
-		
-	}
+    bar.append("text")				
+      .attr("x", 10)
+      .attr("y", barHeight / 2)
+      .attr("dy", ".35em")
+      .text(function(d) {
+        return d["Country Name"] + " " + (Math.round(d[year]/1000000000)) + '億美金';
+      })
+
+    sortbar(data[range],bar,dataset);
+  }
 	else{
 		svgbar.selectAll("g").remove();
 		state_data.on("value",function(gdp){
