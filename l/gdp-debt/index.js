@@ -364,7 +364,7 @@ function redrawbar(d,year){
 				.attr("y", barHeight / 2)
 				.attr("dy", ".35em")
 				.text(function(d) {
-				  return d["Country Name"] + " " + (Math.round(d[year]/10000000000)) + '百億美金';
+				  return d["Country Name"] + " " + (Math.round(d[year]/1000000000)) + '億美金';
 				})
 
 			sortbar(data[range],bar,dataset);
