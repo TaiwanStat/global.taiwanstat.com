@@ -1,110 +1,182 @@
 [
     {
-        "date": "2015年 10月 9日",
-        "body": "經過長達數月的艱難談判，聯合國駐利比亞特使建議利比亞組建一個全國聯合政府。",
-        "latlng": [
-            26.3351,
-            17.228331
-        ],
-        "title": "利比亞危機：聯合國建議組建聯合政府",
-        "img": "http://ichef.bbci.co.uk/news/ws/320/amz/worldservice/live/assets/images/2015/10/09/151009034923_bernardino_leon_976x549_ap_nocredit.jpg",
-        "link": "http://www.bbc.com/zhongwen/trad/world/2015/10/151009_libya_crisis_un_unity_government",
-        "country": "利比亞"
-    },
-    {
-        "date": "2015年 10月 9日",
-        "body": "據路透社引述緬甸和平談判人員指中國介入了緬甸執政黨與反叛武裝的停火談判，中國外交部則否認了這一指控。",
-        "latlng": [
-            35.86166,
-            104.195397
-        ],
-        "title": "緬甸官員指中國干預反政府軍和平談判",
-        "img": "http://ichef-1.bbci.co.uk/news/ws/320/amz/worldservice/live/assets/images/2015/10/09/151009031452_myanmar_thein_sein_handshake_976x549_afp_nocredit.jpg",
-        "link": "http://www.bbc.com/zhongwen/trad/world/2015/10/151009_myanmar_peace_talk_china",
-        "country": "中國"
-    },
-    {
-        "date": "2015年 10月 8日",
-        "body": "匿名的美國官員透露，俄羅斯從裏海向敘利亞發射的巡航導彈，有4枚落入伊朗境內，暫時不清楚有沒有造成傷亡。",
-        "latlng": [
-            37.09024,
-            -95.712891
-        ],
-        "title": "美官員稱4枚俄導彈落在伊朗傷亡不詳",
-        "img": "http://ichef.bbci.co.uk/news/ws/320/amz/worldservice/live/assets/images/2015/10/08/151008195852_russian_missile_512x288_russiandefenceministry_nocredit.jpg",
-        "link": "http://www.bbc.com/zhongwen/trad/world/2015/10/151008_russia_missiles_iran",
-        "country": "美"
-    },
-    {
-        "date": "2015年 10月 8日",
-        "body": "今年8月在法國列車上成功阻止恐怖襲擊發生的3個美國英雄之一的斯通，在加州首府被刺傷，身中數刀，送醫後情況穩定。 ",
-        "latlng": [
-            37.09024,
-            -95.712891
-        ],
-        "title": "美國反恐英雄遇刺受傷送院救治",
-        "img": "http://ichef.bbci.co.uk/news/ws/320/amz/worldservice/live/assets/images/2015/10/08/151008190539_spencer_stone_640x360_epa.jpg",
-        "link": "http://www.bbc.com/zhongwen/trad/world/2015/10/151008_us_hero_stabbed",
-        "country": "美國"
-    },
-    {
-        "date": "2015年 10月 8日",
-        "body": "北約秘書長斯托爾滕貝格表示面對俄國在敘利亞的軍事干預「升級」，北約將履行保衛一切盟友的諾言。",
-        "latlng": [
-            34.80207499999999,
-            38.996815
-        ],
-        "title": "敘利亞危機：北約重申誓將保衛所有盟友",
-        "img": "http://ichef-1.bbci.co.uk/news/ws/320/amz/worldservice/live/assets/images/2015/10/08/151008131726_stoltenberg_640x360_afp_nocredit.jpg",
-        "link": "http://www.bbc.com/zhongwen/trad/world/2015/10/151008_nato_assurance",
-        "country": "敘利亞"
-    },
-    {
-        "date": "2015年 10月 8日",
-        "body": "日本媒體報道，日本首相安倍晉三周四（10月8日）下午在東京可能與台灣在野民進黨主席蔡英文有過非正式接觸，但當事人則否認。 ",
-        "latlng": [
-            55.378051,
-            -3.435973
-        ],
-        "title": "日媒：安倍晉三可能與蔡英文非正式接觸",
-        "img": "http://ichef.bbci.co.uk/news/ws/320/amz/worldservice/live/assets/images/2015/10/07/151007142345_caiyingwen_jp624.jpg",
-        "link": "http://www.bbc.com/zhongwen/trad/world/2015/10/151008_japan_press_abe_caiyingwen",
-        "country": "英"
-    },
-    {
-        "date": "2015年 10月 8日",
-        "body": "2015年諾貝爾文學獎揭曉，獲獎者是白俄羅斯女記者和俄語散文作家斯維拉娜·阿列克謝耶維奇。",
-        "latlng": [
-            53.709807,
-            27.953389
-        ],
-        "title": "白俄羅斯女作家獲2015年諾貝爾文學獎",
-        "img": "http://ichef-1.bbci.co.uk/news/ws/320/amz/worldservice/live/assets/images/2015/10/08/151008110515_svetlana_alexievitch__640x360_afp.jpg",
-        "link": "http://www.bbc.com/zhongwen/trad/world/2015/10/151008_nobel_literature",
-        "country": "白俄羅斯"
-    },
-    {
-        "date": "2015年 10月 8日",
-        "body": "北約成員國防長會議在布魯塞爾舉行時，預料俄羅斯在敘利亞衝突中日益增強的軍事干預將是會議的重要議題。",
-        "latlng": [
-            61.52401,
-            105.318756
-        ],
-        "title": "敘利亞危機：北約將針對俄羅斯空襲展開磋商",
-        "img": "http://ichef.bbci.co.uk/news/ws/320/amz/worldservice/live/assets/images/2015/10/08/151008030107_su-34_bomber__976x549_epa_nocredit.jpg",
-        "link": "http://www.bbc.com/zhongwen/trad/world/2015/10/151008_syria_crisis_nato_russian_air-campaign",
-        "country": "俄羅斯"
-    },
-    {
-        "date": "2015年 10月 7日",
-        "body": "德法兩國領袖向歐洲議會發表演說，呼籲歐盟團結一致，應對難民危機。這是德、法領袖在25年來首次在歐洲議會聯合演說。",
         "latlng": [
             46.227638,
             2.213749
         ],
-        "title": "德法領袖呼籲歐盟團結一致應對難民危機",
-        "img": "http://ichef-1.bbci.co.uk/news/ws/320/amz/worldservice/live/assets/images/2015/10/07/151007222518_angela_merkel_and_francois_hollande__640x360_afp.jpg",
-        "link": "http://www.bbc.com/zhongwen/trad/world/2015/10/151007_germany_france_eu",
-        "country": "法"
+        "date": "2016年 8月 15日",
+        "title": "密爾沃基槍擊案：美國州長動員國民警衛隊協助執法",
+        "img": "http://ichef-1.bbci.co.uk/news/ws/320/amz/worldservice/live/assets/images/2016/08/15/160815055249_police_stand_guard__976x549_reuters.jpg",
+        "link": "http://www.bbc.com/zhongwen/trad/world/2016/08/160815_milwaukee_shooting_national_guard_standby",
+        "country": "法",
+        "body": "美國威斯康星州長沃克宣佈動員國民警衛隊協助執法人員執法，防止因密爾沃基警員開槍打死一名黑人引發的暴力事件持續。"
+    },
+    {
+        "latlng": [
+            -14.235004,
+            -51.92528
+        ],
+        "date": "2016年 8月 15日",
+        "title": "美奧運泳手洛赫特巴西遇搶劫一度被槍指額頭",
+        "img": "http://ichef-1.bbci.co.uk/news/ws/320/amz/worldservice/live/assets/images/2016/08/15/160815021148_gold_medal-winner_ryan_lochte_624x351_epa.jpg",
+        "link": "http://www.bbc.com/zhongwen/trad/world/2016/08/160815_rio2016_ryan_lochte_roberry",
+        "country": "巴西",
+        "body": "美國奧運泳手洛赫特與另外3名隊友當地時間周日（8月14日）早上在里約熱內盧乘坐的士時遇劫，洛赫特一度被槍指頭。國際奧委會最開始持否認態度，後改口稱從美國奧委會得悉事件。"
+    },
+    {
+        "latlng": [
+            46.227638,
+            2.213749
+        ],
+        "date": "2016年 8月 14日",
+        "title": "法國華人遭毆打致死華社舉行哀悼儀式",
+        "img": "http://ichef.bbci.co.uk/news/ws/320/amz/worldservice/live/assets/images/2016/08/14/160814220055__90788486_034671510-1.jpg",
+        "link": "http://www.bbc.com/zhongwen/trad/world/2016/08/160814_france_chinese_death",
+        "country": "法國",
+        "body": "法國巴黎北郊華人社區舉行儀式，為一名華人被歹徒毆打死亡表示哀悼。"
+    },
+    {
+        "latlng": [
+            21.521757,
+            -77.781167
+        ],
+        "date": "2016年 8月 14日",
+        "title": "古巴慶祝前領導人卡斯特羅90歲生日",
+        "img": "http://ichef.bbci.co.uk/news/ws/320/amz/worldservice/live/assets/images/2016/08/14/160814145911_castro_512x288_reuters_nocredit.jpg",
+        "link": "http://www.bbc.com/zhongwen/trad/world/2016/08/160814_castro_birthday",
+        "country": "古巴",
+        "body": "菲德爾·卡斯特羅在哈瓦那觀看了一場音樂會，這是他自4月份以來首次公開露面。"
+    },
+    {
+        "latlng": [
+            46.818188,
+            8.227511999999999
+        ],
+        "date": "2016年 8月 14日",
+        "title": "瑞士火車攻擊案：一名受害者及兇手死亡",
+        "img": "http://ichef.bbci.co.uk/news/ws/320/amz/worldservice/live/assets/images/2016/08/14/160814123514_salez_512x288_reuters_nocredit.jpg",
+        "link": "http://www.bbc.com/zhongwen/trad/world/2016/08/160814_switzerland_attack_victim_dead",
+        "country": "瑞士",
+        "body": "除兇手和已經死亡的受害婦女外，攻擊還造成其他5人受傷，其中兩人傷勢嚴重，兩名重傷員中包括一名6歲兒童。"
+    },
+    {
+        "latlng": [
+            15.870032,
+            100.992541
+        ],
+        "date": "2016年 8月 14日",
+        "title": "泰國警方稱已掌握炸彈攻擊組織者情況",
+        "img": "http://ichef.bbci.co.uk/news/ws/320/amz/worldservice/live/assets/images/2016/08/14/160814110936_thailand_512x288_afp_nocredit.jpg",
+        "link": "http://www.bbc.com/zhongwen/trad/world/2016/08/160814_thailand_attack_police",
+        "country": "泰國",
+        "body": "泰國南部多個地點上周連續發生多次炸彈攻擊，警方稱這些攻擊由一個團伙同時發動，由一人指揮。"
+    },
+    {
+        "latlng": [
+            12.879721,
+            121.774017
+        ],
+        "date": "2016年 8月 14日",
+        "title": "菲律賓民眾抗議前總統獲准葬於英雄墓園",
+        "img": "http://ichef.bbci.co.uk/news/ws/320/amz/worldservice/live/assets/images/2016/08/14/160814095351_manila_512x288_ap_nocredit.jpg",
+        "link": "http://www.bbc.com/zhongwen/trad/world/2016/08/160814_philippines_marcos_burial_protest",
+        "country": "菲律賓",
+        "body": "菲律賓總統杜特爾特決定把前總統馬科斯的遺體從他的家鄉巴塔克移送到馬尼拉國家英雄墓地安葬，遭到反對者的強烈抗議。"
+    },
+    {
+        "latlng": [
+            36.204824,
+            138.252924
+        ],
+        "date": "2016年 8月 14日",
+        "title": "日本男子天團SMAP出道25週年正式宣佈解散",
+        "img": "http://ichef-1.bbci.co.uk/news/ws/320/amz/worldservice/live/assets/images/2016/08/14/160814094359_cn_smap_break_up_976x549_afp_nocredit.jpg",
+        "link": "http://www.bbc.com/zhongwen/trad/world/2016/08/160814_smap_break_up",
+        "country": "日本",
+        "body": "日本男子人氣天團SMAP所屬的經紀公司傑尼斯事務所周日凌晨宣佈，SMAP將於今年12月31日解散。成員將繼續留在經紀公司，各自獨立發展。"
+    },
+    {
+        "latlng": [
+            37.09024,
+            -95.712891
+        ],
+        "date": "2016年 8月 14日",
+        "title": "美國紐約伊斯蘭教領袖與助手遭槍殺",
+        "img": "http://ichef-1.bbci.co.uk/news/ws/320/amz/worldservice/live/assets/images/2016/08/14/160814071018_cn_imam_shot_dead_976x549_reuters_nocredit.jpg",
+        "link": "http://www.bbc.com/zhongwen/trad/world/2016/08/160814_imam_nyc_shot_dead",
+        "country": "美國",
+        "body": "美國紐約皇后區一名伊斯蘭教阿訇及他的助理在離開清真寺時遭槍擊身亡，警方仍在調查動機。"
+    },
+    {
+        "latlng": [
+            61.52401,
+            105.318756
+        ],
+        "date": "2016年 8月 14日",
+        "title": "里約2016：WADA稱俄羅斯告密者斯捷潘諾娃賬戶被黑",
+        "img": "http://ichef.bbci.co.uk/news/ws/320/amz/worldservice/live/assets/images/2016/08/14/160814015642_yuliya_stepanova_640x360_ap_nocredit.jpg",
+        "link": "http://www.bbc.com/zhongwen/trad/world/2016/08/160814_rio2016_wada_russia_doping",
+        "country": "俄羅斯",
+        "body": "世界反興奮劑組織表示，揭發俄羅斯禁藥案的田徑運動員尤利婭·斯捷潘諾娃遭黑客入侵其賬戶，當中載有其藏身地點。"
+    },
+    {
+        "latlng": [
+            55.378051,
+            -3.435973
+        ],
+        "date": "2016年 8月 13日",
+        "title": "里約2016：英國隊迎「超級星期六」",
+        "img": "http://ichef-1.bbci.co.uk/news/ws/320/amz/worldservice/live/assets/images/2016/08/13/160813213340_g_976x549_getty.jpg",
+        "link": "http://www.bbc.com/zhongwen/trad/world/2016/08/160813_rio2016_uk_super_saturday",
+        "country": "英國",
+        "body": "里約奧運會周六（8月13日）進入第8天賽事，英國奧運代表隊迎來「超級星期六」，包括划艇、田徑和自行車等多個項目已奪金銀或有望奪牌。"
+    },
+    {
+        "latlng": [
+            34.80207499999999,
+            38.996815
+        ],
+        "date": "2016年 8月 13日",
+        "title": "敘利亞：曼比傑居民剃鬍鬚摘面罩慶解放",
+        "img": "http://ichef-1.bbci.co.uk/news/ws/320/amz/worldservice/live/assets/images/2016/08/13/160813202414_souad_hamidi_19_removing_the_niqab_512x288_reuters_nocredit.jpg",
+        "link": "http://www.bbc.com/zhongwen/trad/world/2016/08/160813_syria_manbij_liberated",
+        "country": "敘利亞",
+        "body": "敘利亞北部城市曼比傑的居民剪鬍子、脫掉面罩來慶祝他們從所謂的「伊斯蘭國」的統治中解放出來。"
+    },
+    {
+        "latlng": [
+            48.379433,
+            31.16558
+        ],
+        "date": "2016年 8月 13日",
+        "title": "俄德外長將緊急會晤商討烏克蘭危機",
+        "img": "http://ichef-1.bbci.co.uk/news/ws/320/amz/worldservice/live/assets/images/2016/06/15/160615141909_lavrov_russia_duma_512x288_reuters_nocredit.jpg",
+        "link": "http://www.bbc.com/zhongwen/trad/world/2016/08/160813_russia_germany_foreign_ministers",
+        "country": "烏克蘭",
+        "body": "俄國外長拉夫羅夫即將與德國外長施泰因邁爾會晤，討論克里米亞和中東危機。"
+    },
+    {
+        "latlng": [
+            60.12816100000001,
+            18.643501
+        ],
+        "date": "2016年 8月 13日",
+        "title": "瑞典29歲穆斯林女部長因酒駕辭職",
+        "img": "http://ichef.bbci.co.uk/news/ws/320/amz/worldservice/live/assets/images/2016/08/13/160813143347_sweden_minister_512x288_reuters_nocredit.jpg",
+        "link": "http://www.bbc.com/zhongwen/trad/world/2016/08/160813_sweden_muslim_minister_drunk",
+        "country": "瑞典",
+        "body": "瑞典歷史首位穆斯林女部長，年僅29歲的哈奇亞裏奇因酒後駕駛醜聞引咎辭職。"
+    },
+    {
+        "latlng": [
+            55.378051,
+            -3.435973
+        ],
+        "date": "2016年 8月 13日",
+        "title": "他信英拉政黨否認與爆炸有任何關係",
+        "img": "http://ichef-1.bbci.co.uk/news/ws/320/amz/worldservice/live/assets/images/2016/08/13/160813121216_thai_explosion_512x288_reuters_nocredit.jpg",
+        "link": "http://www.bbc.com/zhongwen/trad/world/2016/08/160813_thailand_thaksin_denial",
+        "country": "英",
+        "body": "泰國政府影射前總理他信領導的反對黨可能幕後策劃上周襲擊；為泰黨高調否認。"
     }
 ]
