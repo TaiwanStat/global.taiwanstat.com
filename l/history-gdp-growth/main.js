@@ -94,8 +94,8 @@
 
 
   queue()
-    .defer(d3.json, "/map/world-110m.json")
-    .defer(d3.json, "/map/world.geo.json")
+    .defer(d3.json, "/global/map/world-110m.json")
+    .defer(d3.json, "/global/map/world.geo.json")
     .defer(d3.csv, './data/gdp_growth.csv')
     .await(ready);
 

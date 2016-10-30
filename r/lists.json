@@ -5,14 +5,14 @@
       {
         "title": "中國空氣品質地圖",
         "url": "cn-air-map",
-        "img": "images/r/cn-air-map.jpg",
+        "img": "../images/r/cn-air-map.jpg",
         "description": "中國的空氣品質深深地影響鄰近的各國，讓我們一起看看中國的空氣狀況吧！",
         "author": "Chi-Hsuan, Huang"
       },
       {
         "title": "世界旅遊警示圖",
         "url": "travel-safety-guide",
-        "img": "images/r/travel-safety-guide.jpg",
+        "img": "../images/r/travel-safety-guide.jpg",
         "description": "最近我們要出國哪些地方需要特別小心呢？！",
         "author": "Pei-Hsuan, Hsieh",
         "collaborator": "Po-An, Yang, Chi-Hsuan, Huang"
@@ -20,7 +20,7 @@
       {
         "title": "世界新聞地圖",
         "url": "world-news",
-        "img": "images/r/world_news.png",
+        "img": "../images/r/world_news.png",
         "description": "讓我們透過地圖了解世界上各地方發生的事情吧！",
         "author": "Chi-Hsuan Huang"
       }
