@@ -148,10 +148,7 @@
     this.div_ = null;
   };
 
-  var myFirebaseRef = new Firebase("https://realtaiwanstat.firebaseio.com");
-  myFirebaseRef.child("world_news").limitToLast(1).on("child_added", function(snapshot) {
-      var raw = snapshot.val();  // Alerts "San Francisco"
-      var data = JSON.parse(raw);
+	d3.json('./data.json', function() {
     google.maps.event.addDomListener(window, 'load', initMap(data));
   });
 

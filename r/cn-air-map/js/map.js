@@ -32,15 +32,10 @@
   $( document ).ready(function() {
     initMap();
     d3.json('./data/location.json', function(sites) {
-      //d3.json('./data/data.json', function(data) {
-      var myFirebaseRef = new Firebase("https://realtaiwanstat.firebaseio.com");
-      myFirebaseRef.child("cn-air-map").limitToLast(1).on("child_added", function(snapshot) {
-        var raw = snapshot.val();  // Alerts "San Francisco"
-        var data = JSON.parse(raw);
-   
+      d3.json('./data/data.json', function(data) {
         addSiteToMap(data, sites);
-      });
-    });
+			});
+		});
   });
 
 

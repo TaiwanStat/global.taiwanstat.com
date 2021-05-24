@@ -17,6 +17,7 @@ html, body {
 }
 .mdl-card__title h2{
   font-size: 18px;
+  background: rgba(0, 0, 0, 0.4);
 }
 .card-square > .mdl-card__title {
   color: #fff;
